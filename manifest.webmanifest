@@ -1,0 +1,21 @@
+{
+  "name": "ダビスタ2 配合研究ラボ v5.2",
+  "short_name": "配合研究ラボ",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0d1927",
+  "theme_color": "#163b39",
+  "lang": "ja",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
