@@ -1,0 +1,12 @@
+{
+  "version": "5.9",
+  "ancestor_input": {
+    "name": "Northern Dancer",
+    "generation": 4,
+    "effects": [
+      "速力"
+    ],
+    "source": "任意の出典"
+  },
+  "note": "generation は対象馬から見た祖先世代。1〜5。省略可。"
+}

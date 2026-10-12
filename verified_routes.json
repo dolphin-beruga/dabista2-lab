@@ -1,0 +1,514 @@
+{
+  "version": "5.7",
+  "updated": "2026-10-12",
+  "routes": [
+    {
+      "mare": "スタセリタ",
+      "sires": [
+        "ノーザンテースト",
+        "クリエイターⅡ",
+        "オルフェーヴル"
+      ],
+      "final": "オルフェーヴル",
+      "final_theories": [
+        "完璧",
+        "凝った",
+        "ニックス★★★",
+        "クロス"
+      ],
+      "complete": true,
+      "stages": [
+        {
+          "sire": "ノーザンテースト",
+          "theories": [
+            "クロス"
+          ],
+          "crosses": [
+            "Northern Dancer 2×5（28.13%）"
+          ]
+        },
+        {
+          "sire": "クリエイターⅡ",
+          "theories": [
+            "アウトブリード"
+          ],
+          "crosses": []
+        },
+        {
+          "sire": "オルフェーヴル",
+          "theories": [
+            "完璧",
+            "凝った",
+            "ニックス★★★"
+          ],
+          "crosses": [
+            "ノーザンテースト (4×5)×3（21.88%）"
+          ]
+        }
+      ],
+      "source": "https://piyotakejapan.com/47370/",
+      "verified": "仮想配合・血統画面確認"
+    },
+    {
+      "mare": "スタセリタ",
+      "sires": [
+        "ドゥラメンテ",
+        "クリエイターⅡ",
+        "ダノンキングリー"
+      ],
+      "final": "ダノンキングリー",
+      "final_theories": [
+        "完璧",
+        "ニックス★★★",
+        "クロス"
+      ],
+      "complete": false,
+      "stages": [
+        {
+          "sire": "ドゥラメンテ",
+          "theories": [
+            "アウトブリード"
+          ],
+          "crosses": []
+        },
+        {
+          "sire": "クリエイターⅡ",
+          "theories": [
+            "クロス"
+          ],
+          "crosses": [
+            "Mr. Prospector 5×5（6.25%）"
+          ]
+        },
+        {
+          "sire": "ダノンキングリー",
+          "theories": [
+            "完璧",
+            "ニックス★★★"
+          ],
+          "crosses": [
+            "サンデーサイレンス 3×5（15.63%）"
+          ]
+        }
+      ],
+      "source": "https://piyotakejapan.com/47370/",
+      "verified": "仮想配合・血統画面確認"
+    },
+    {
+      "mare": "ゲイルフォース",
+      "sires": [
+        "トニービン",
+        "ディスクリートキャット",
+        "コントレイル"
+      ],
+      "final": "コントレイル",
+      "final_theories": [
+        "完璧",
+        "ニックス★★★"
+      ],
+      "complete": false,
+      "stages": [
+        {
+          "sire": "トニービン",
+          "theories": [
+            "面白"
+          ],
+          "crosses": []
+        },
+        {
+          "sire": "ディスクリートキャット",
+          "theories": [
+            "面白"
+          ],
+          "crosses": []
+        },
+        {
+          "sire": "コントレイル",
+          "theories": [
+            "完璧",
+            "ニックス★★★"
+          ],
+          "crosses": []
+        }
+      ],
+      "source": "https://piyotakejapan.com/47089/",
+      "verified": "仮想配合確認"
+    },
+    {
+      "mare": "ゲイルフォース",
+      "sires": [
+        "トニービン",
+        "ノーザンテースト",
+        "オルフェーヴル"
+      ],
+      "final": "オルフェーヴル",
+      "final_theories": [
+        "完璧",
+        "凝った",
+        "クロス"
+      ],
+      "complete": false,
+      "stages": [
+        {
+          "sire": "トニービン",
+          "theories": [
+            "面白"
+          ],
+          "crosses": []
+        },
+        {
+          "sire": "ノーザンテースト",
+          "theories": [
+            "面白",
+            "クロス"
+          ],
+          "crosses": [
+            "ハイペリオン系クロス（記事確認）"
+          ]
+        },
+        {
+          "sire": "オルフェーヴル",
+          "theories": [
+            "完璧",
+            "凝った"
+          ],
+          "crosses": []
+        }
+      ],
+      "source": "https://piyotakejapan.com/47089/",
+      "verified": "仮想配合確認"
+    },
+    {
+      "mare": "ドバイマジェスティ",
+      "sires": [
+        "ノヴェリスト",
+        "ノーザンテースト",
+        "オルフェーヴル"
+      ],
+      "final": "オルフェーヴル",
+      "final_theories": [
+        "完璧",
+        "凝った",
+        "クロス"
+      ],
+      "complete": false,
+      "stages": [
+        {
+          "sire": "ノヴェリスト",
+          "theories": [
+            "アウトブリード"
+          ],
+          "crosses": []
+        },
+        {
+          "sire": "ノーザンテースト",
+          "theories": [
+            "面白"
+          ],
+          "crosses": []
+        },
+        {
+          "sire": "オルフェーヴル",
+          "theories": [
+            "完璧",
+            "凝った"
+          ],
+          "crosses": [
+            "ノーザンテースト (4×5)×2（34.38%）"
+          ]
+        }
+      ],
+      "source": "https://piyotakejapan.com/46903/",
+      "verified": "仮想配合・血統画面確認"
+    },
+    {
+      "mare": "ドバイマジェスティ",
+      "sires": [
+        "ノヴェリスト",
+        "ノーザンテースト",
+        "ゴールドシップ"
+      ],
+      "final": "ゴールドシップ",
+      "final_theories": [
+        "完璧",
+        "クロス"
+      ],
+      "complete": false,
+      "stages": [
+        {
+          "sire": "ノヴェリスト",
+          "theories": [
+            "アウトブリード"
+          ],
+          "crosses": []
+        },
+        {
+          "sire": "ノーザンテースト",
+          "theories": [
+            "面白"
+          ],
+          "crosses": []
+        },
+        {
+          "sire": "ゴールドシップ",
+          "theories": [
+            "完璧"
+          ],
+          "crosses": [
+            "ノーザンテースト 5×2（28.13%）"
+          ]
+        }
+      ],
+      "source": "https://piyotakejapan.com/46903/",
+      "verified": "仮想配合・血統画面確認"
+    },
+    {
+      "mare": "サロミナ",
+      "sires": [
+        "カルストンライトオ",
+        "ノーザンテースト",
+        "インディチャンプ"
+      ],
+      "final": "インディチャンプ",
+      "final_theories": [
+        "完璧",
+        "クロス"
+      ],
+      "complete": false,
+      "stages": [
+        {
+          "sire": "カルストンライトオ",
+          "theories": [],
+          "crosses": []
+        },
+        {
+          "sire": "ノーザンテースト",
+          "theories": [],
+          "crosses": []
+        },
+        {
+          "sire": "インディチャンプ",
+          "theories": [
+            "完璧"
+          ],
+          "crosses": [
+            "ノーザンテースト 5×2（28.13%）"
+          ]
+        }
+      ],
+      "source": "https://piyotakejapan.com/46889/",
+      "verified": "仮想配合・血統画面確認"
+    },
+    {
+      "mare": "ラヴズオンリーミー",
+      "sires": [
+        "ノヴェリスト",
+        "クリエイターⅡ",
+        "オルフェーヴル"
+      ],
+      "final": "オルフェーヴル",
+      "final_theories": [
+        "完璧",
+        "ニックス★★★",
+        "アウトブリード"
+      ],
+      "complete": false,
+      "stages": [
+        {
+          "sire": "ノヴェリスト",
+          "theories": [],
+          "crosses": []
+        },
+        {
+          "sire": "クリエイターⅡ",
+          "theories": [
+            "クロス"
+          ],
+          "crosses": [
+            "Mr. Prospector 5×4（9.38%）"
+          ]
+        },
+        {
+          "sire": "オルフェーヴル",
+          "theories": [
+            "完璧",
+            "ニックス★★★",
+            "アウトブリード"
+          ],
+          "crosses": []
+        }
+      ],
+      "source": "https://piyotakejapan.com/46918/",
+      "verified": "仮想配合・血統画面確認"
+    },
+    {
+      "mare": "コンセントリック",
+      "sires": [
+        "キングカメハメハ",
+        "Cracksman"
+      ],
+      "final": "Cracksman",
+      "final_theories": [
+        "見事",
+        "凝った",
+        "クロス"
+      ],
+      "complete": false,
+      "stages": [
+        {
+          "sire": "キングカメハメハ",
+          "theories": [
+            "凝った",
+            "ニックス★★"
+          ],
+          "crosses": [
+            "Northern Dancer (5×5)×3（18.75%）",
+            "Special 5×4（9.38%）",
+            "Mill Reef 5×4（9.38%）",
+            "Native Dancer 5×5（6.25%）"
+          ]
+        },
+        {
+          "sire": "Cracksman",
+          "theories": [
+            "見事",
+            "凝った"
+          ],
+          "crosses": [
+            "Sadler’s Wells 4×3（18.75%）",
+            "Nureyev 5×5（6.25%）"
+          ]
+        }
+      ],
+      "source": "https://piyotakejapan.com/47075/",
+      "verified": "仮想配合・血統画面確認"
+    },
+    {
+      "mare": "コンセントリック",
+      "sires": [
+        "シスキン",
+        "Cracksman"
+      ],
+      "final": "Cracksman",
+      "final_theories": [
+        "見事",
+        "凝った",
+        "クロス"
+      ],
+      "complete": false,
+      "stages": [
+        {
+          "sire": "シスキン",
+          "theories": [
+            "見事",
+            "ニックス★★",
+            "アウトブリード"
+          ],
+          "crosses": []
+        },
+        {
+          "sire": "Cracksman",
+          "theories": [
+            "見事",
+            "凝った"
+          ],
+          "crosses": [
+            "Sadler’s Wells 4×3（18.75%）",
+            "Green Desert 4×5（9.38%）"
+          ]
+        }
+      ],
+      "source": "https://piyotakejapan.com/47075/",
+      "verified": "仮想配合・血統画面確認"
+    },
+    {
+      "mare": "キャバレイ",
+      "sires": [
+        "トニービン",
+        "ディスクリートキャット",
+        "スワーヴリチャード"
+      ],
+      "final": "スワーヴリチャード",
+      "final_theories": [
+        "見事",
+        "凝った",
+        "ニックス★★★",
+        "クロス"
+      ],
+      "complete": false,
+      "stages": [
+        {
+          "sire": "トニービン",
+          "theories": [
+            "面白",
+            "ニックス★",
+            "アウトブリード"
+          ],
+          "crosses": []
+        },
+        {
+          "sire": "ディスクリートキャット",
+          "theories": [
+            "面白",
+            "クロス"
+          ],
+          "crosses": [
+            "Northern Dancer 5×5（6.25%）"
+          ]
+        },
+        {
+          "sire": "スワーヴリチャード",
+          "theories": [
+            "見事",
+            "凝った",
+            "ニックス★★★"
+          ],
+          "crosses": [
+            "トニービン 4×3（18.75%）"
+          ]
+        }
+      ],
+      "source": "https://piyotakejapan.com/47189/",
+      "verified": "仮想配合・血統画面確認"
+    },
+    {
+      "mare": "ホワイトアルバム",
+      "sires": [
+        "バゴ",
+        "エピファネイア"
+      ],
+      "final": "エピファネイア",
+      "final_theories": [
+        "凝った",
+        "ニックス★★",
+        "クロス"
+      ],
+      "complete": false,
+      "stages": [
+        {
+          "sire": "バゴ",
+          "theories": [
+            "面白",
+            "ニックス★★"
+          ],
+          "crosses": [
+            "Halo 5×5（6.25%）"
+          ]
+        },
+        {
+          "sire": "エピファネイア",
+          "theories": [
+            "凝った",
+            "ニックス★★"
+          ],
+          "crosses": [
+            "サンデーサイレンス 4×5（9.38%）",
+            "Northern Dancer 5×5（6.25%）"
+          ]
+        }
+      ],
+      "source": "https://piyotakejapan.com/47384/",
+      "verified": "仮想配合・血統画面確認"
+    }
+  ]
+}

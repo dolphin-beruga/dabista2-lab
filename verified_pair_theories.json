@@ -1,0 +1,88 @@
+{
+  "version": "5.6",
+  "pairs": [
+    {
+      "sire": "リアルスティール",
+      "mare": "アーモニーズエンジェル",
+      "kotta": true,
+      "nick": 3,
+      "crosses": [
+        {
+          "name": "Mr. Prospector",
+          "pattern": "4×4"
+        }
+      ],
+      "source": "https://piyotakejapan.com/46527/",
+      "verified": "仮想配合画面確認"
+    },
+    {
+      "sire": "アルアイン",
+      "mare": "ザズー",
+      "kotta": true,
+      "nick": 3,
+      "crosses": [],
+      "source": "https://piyotakejapan.com/46073/",
+      "verified": "ゲーム内確認記事"
+    },
+    {
+      "sire": "リアルスティール",
+      "mare": "フォエヴァーダーリング",
+      "kotta": true,
+      "nick": 3,
+      "crosses": [],
+      "source": "https://piyotakejapan.com/47321/",
+      "verified": "仮想配合画面確認"
+    },
+    {
+      "sire": "バゴ",
+      "mare": "ガウデアムス",
+      "kotta": true,
+      "nick": null,
+      "crosses": [
+        {
+          "name": "Mr. Prospector",
+          "pattern": "4×4"
+        },
+        {
+          "name": "Northern Dancer",
+          "pattern": "4×(5×5)"
+        }
+      ],
+      "source": "https://piyotakejapan.com/47230/",
+      "verified": "仮想配合画面確認"
+    },
+    {
+      "sire": "Camelot",
+      "mare": "シャトーブランシュ",
+      "kotta": false,
+      "nick": null,
+      "crosses": [
+        {
+          "name": "Northern Dancer",
+          "pattern": "4×5"
+        },
+        {
+          "name": "Nureyev",
+          "pattern": "5×5"
+        }
+      ],
+      "source": "https://piyotakejapan.com/47419/",
+      "verified": "仮想配合画面確認"
+    },
+    {
+      "sire": "バゴ",
+      "mare": "ホワイトアルバム",
+      "kotta": false,
+      "nick": 2,
+      "crosses": [
+        {
+          "name": "Halo",
+          "pattern": "5×5"
+        }
+      ],
+      "source": "https://piyotakejapan.com/47384/",
+      "verified": "仮想配合画面確認"
+    }
+  ],
+  "note": "個別記事で仮想配合/ゲーム内表示を確認できた配合のみ。未収録ペアを非成立とはみなさない。"
+}

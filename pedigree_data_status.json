@@ -1,0 +1,15 @@
+{
+  "version": "6.2",
+  "stallions": 237,
+  "mares": 327,
+  "total": 564,
+  "note": "祖先名・世代は確認済み情報のみ追加。v6.2でJBIS 5代血統を優先10頭へ拡張。未登録はクロスなしを意味しない。",
+  "seeded_jbis_horses": 4,
+  "seeded_names": [
+    "オルフェーヴル",
+    "ノーザンテースト",
+    "クリエイターⅡ",
+    "スタセリタ"
+  ],
+  "verified_pedigree_records": 10
+}

@@ -1,0 +1,18 @@
+{
+  "version": "2.8",
+  "checkedAt": "2026-10-04",
+  "source": "https://piyotakejapan.com/46717/",
+  "targetStallions": 237,
+  "initialStallionA": 151,
+  "initialStallionB": 151,
+  "addedStallionA": 86,
+  "addedStallionB": 86,
+  "finalStallionA": 237,
+  "finalStallionB": 237,
+  "catalogStallions": 237,
+  "maresC": 327,
+  "duplicateStallionNames": 0,
+  "incompleteStallionA": 0,
+  "incompleteStallionB": 0,
+  "outOfRangeCodes": 0
+}

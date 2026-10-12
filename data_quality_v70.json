@@ -1,0 +1,21 @@
+{
+  "version": "7.0",
+  "catalog": {
+    "stallions": 237,
+    "mares": 327
+  },
+  "roadmap": {
+    "max_generations": 5,
+    "default_catalog_auto_include": true
+  },
+  "theory_state_model": [
+    "確認済み",
+    "未確認",
+    "非成立"
+  ],
+  "known_limitations": [
+    "全564頭の完全5代血統は未完成",
+    "Switch 2版の凝った配合一般式は完全確定していない",
+    "未登録祖先はクロスなしを意味しない"
+  ]
+}

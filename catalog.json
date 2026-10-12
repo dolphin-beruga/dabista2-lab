@@ -1,0 +1,5665 @@
+{
+  "schemaVersion": "5.6",
+  "built": "2026-10-12",
+  "disclaimer": "公開資料の個別照合済み情報と既存ラボデータから構成。すべての能力や配合結果を保証しません。",
+  "stallions": [
+    {
+      "name": "ディープインパクト",
+      "fee": 4000,
+      "from": 1600,
+      "to": 3000,
+      "jisseki": "A",
+      "sokoryoku": "A",
+      "antei": "A",
+      "kisei": "B",
+      "taishitsu": "B",
+      "system": "サンデーサイレンス系",
+      "source": "https://ds2.yublog.com/",
+      "growth": "持続",
+      "major": "ロイヤルチャージャー系",
+      "minor": "サンデーサイレンス系",
+      "area": "国内",
+      "type": "公開一覧照合"
+    },
+    {
+      "name": "キズナ",
+      "fee": 2000,
+      "from": 1600,
+      "to": 2600,
+      "jisseki": "A",
+      "sokoryoku": "B",
+      "antei": "A",
+      "kisei": "B",
+      "taishitsu": "B",
+      "system": "サンデーサイレンス系",
+      "source": "https://ds2.yublog.com/",
+      "growth": "持続",
+      "major": "ロイヤルチャージャー系",
+      "minor": "サンデーサイレンス系",
+      "area": "国内",
+      "type": "公開一覧照合"
+    },
+    {
+      "name": "スワーヴリチャード",
+      "fee": 1200,
+      "from": 1600,
+      "to": 2400,
+      "jisseki": "A",
+      "sokoryoku": "A",
+      "antei": "A",
+      "kisei": "B",
+      "taishitsu": "B",
+      "system": "サンデーサイレンス系",
+      "source": "https://ds2.yublog.com/",
+      "growth": "持続",
+      "major": "ロイヤルチャージャー系",
+      "minor": "サンデーサイレンス系",
+      "area": "国内",
+      "type": "公開一覧照合"
+    },
+    {
+      "name": "キングカメハメハ",
+      "fee": 1200,
+      "from": 1600,
+      "to": 2400,
+      "jisseki": "A",
+      "sokoryoku": "B",
+      "antei": "A",
+      "kisei": "B",
+      "taishitsu": "B",
+      "system": "ミスタープロスペクター系",
+      "source": "https://ds2.yublog.com/",
+      "growth": "普通",
+      "major": "ネイティヴダンサー系",
+      "minor": "ミスタープロスペクター系",
+      "area": "国内",
+      "type": "公開一覧照合"
+    },
+    {
+      "name": "ダイワメジャー",
+      "fee": 600,
+      "from": 1400,
+      "to": 1800,
+      "jisseki": "A",
+      "sokoryoku": "B",
+      "antei": "A",
+      "kisei": "A",
+      "taishitsu": "B",
+      "system": "サンデーサイレンス系",
+      "source": "https://ds2.yublog.com/",
+      "growth": "早熟",
+      "major": "ロイヤルチャージャー系",
+      "minor": "サンデーサイレンス系",
+      "area": "国内",
+      "type": "公開一覧照合"
+    },
+    {
+      "name": "キタサンブラック",
+      "fee": 2500,
+      "from": 1800,
+      "to": 3200,
+      "jisseki": "A",
+      "sokoryoku": "B",
+      "antei": "C",
+      "kisei": "B",
+      "taishitsu": "B",
+      "system": "サンデーサイレンス系",
+      "source": "https://ds2.yublog.com/",
+      "growth": "普通",
+      "major": "ロイヤルチャージャー系",
+      "minor": "サンデーサイレンス系",
+      "area": "国内",
+      "type": "公開一覧照合"
+    },
+    {
+      "name": "ステイゴールド",
+      "fee": 600,
+      "from": 1800,
+      "to": 3000,
+      "jisseki": "A",
+      "sokoryoku": "A",
+      "antei": "C",
+      "kisei": "B",
+      "taishitsu": "B",
+      "system": "サンデーサイレンス系",
+      "source": "https://ds2.yublog.com/",
+      "growth": "普通",
+      "major": "ロイヤルチャージャー系",
+      "minor": "サンデーサイレンス系",
+      "area": "国内",
+      "type": "公開一覧照合"
+    },
+    {
+      "name": "ゴールドシップ",
+      "fee": 500,
+      "from": 2000,
+      "to": 3000,
+      "jisseki": "B",
+      "sokoryoku": "A",
+      "antei": "C",
+      "kisei": "B",
+      "taishitsu": "B",
+      "system": "サンデーサイレンス系",
+      "source": "https://ds2.yublog.com/",
+      "growth": "普通",
+      "major": "ロイヤルチャージャー系",
+      "minor": "サンデーサイレンス系",
+      "area": "国内",
+      "type": "公開一覧照合"
+    },
+    {
+      "name": "オルフェーヴル",
+      "fee": 350,
+      "from": 1800,
+      "to": 3000,
+      "jisseki": "A",
+      "sokoryoku": "A",
+      "antei": "C",
+      "kisei": "B",
+      "taishitsu": "B",
+      "system": "サンデーサイレンス系",
+      "source": "https://ds2.yublog.com/",
+      "growth": "普通",
+      "major": "ロイヤルチャージャー系",
+      "minor": "サンデーサイレンス系",
+      "area": "国内",
+      "type": "公開一覧照合"
+    },
+    {
+      "name": "モーリス",
+      "fee": 600,
+      "from": 1400,
+      "to": 2200,
+      "jisseki": "B",
+      "sokoryoku": "A",
+      "antei": "C",
+      "kisei": "B",
+      "taishitsu": "B",
+      "system": "ロベルト系",
+      "source": "https://ds2.yublog.com/",
+      "growth": "普通",
+      "major": "ロイヤルチャージャー系",
+      "minor": "ロベルト系",
+      "area": "国内",
+      "type": "公開一覧照合"
+    },
+    {
+      "name": "ルーラーシップ",
+      "fee": 400,
+      "from": 1800,
+      "to": 2600,
+      "jisseki": "A",
+      "sokoryoku": "A",
+      "antei": "C",
+      "kisei": "B",
+      "taishitsu": "B",
+      "system": "ミスタープロスペクター系",
+      "source": "https://ds2.yublog.com/",
+      "growth": "晩成",
+      "major": "ネイティヴダンサー系",
+      "minor": "ミスタープロスペクター系",
+      "area": "国内",
+      "type": "公開一覧照合"
+    },
+    {
+      "name": "エピファネイア",
+      "fee": 1000,
+      "from": 1800,
+      "to": 2600,
+      "jisseki": "A",
+      "sokoryoku": "A",
+      "antei": "B",
+      "kisei": "C",
+      "taishitsu": "B",
+      "system": "ロベルト系",
+      "source": "https://ds.yublog.com/?m=0",
+      "growth": "持続",
+      "major": "ロイヤルチャージャー系",
+      "minor": "ロベルト系",
+      "area": "国内",
+      "type": "公開一覧照合"
+    },
+    {
+      "name": "Monsun",
+      "fee": 1800,
+      "from": 2000,
+      "to": 3000,
+      "jisseki": "A",
+      "sokoryoku": "A",
+      "antei": "B",
+      "kisei": "A",
+      "taishitsu": "A",
+      "system": "ブランドフォード系",
+      "source": "https://ds2.yublog.com/data/st/Monsun"
+    },
+    {
+      "name": "Curlin",
+      "fee": 3500,
+      "from": 1400,
+      "to": 2200,
+      "jisseki": "B",
+      "sokoryoku": "A",
+      "antei": "B",
+      "kisei": "A",
+      "taishitsu": "B",
+      "system": "ミスタープロスペクター系",
+      "source": "https://ds2.yublog.com/data/st/Curlin",
+      "growth": "普通",
+      "major": "ネイティヴダンサー系",
+      "minor": "ミスタープロスペクター系",
+      "area": "海外",
+      "type": "公開一覧照合"
+    },
+    {
+      "name": "Kodiac",
+      "fee": 360,
+      "from": 1200,
+      "to": 1800,
+      "jisseki": "B",
+      "sokoryoku": "B",
+      "antei": "A",
+      "kisei": "B",
+      "taishitsu": "A",
+      "system": "ダンチヒ系",
+      "source": "https://ds2.yublog.com/data/st/Kodiac",
+      "growth": "普通",
+      "major": "ニアークティック系",
+      "minor": "ダンチヒ系",
+      "area": "海外",
+      "type": "公開一覧照合"
+    },
+    {
+      "name": "American Pharoah",
+      "system": "ミスタープロスペクター系",
+      "fee": 400,
+      "to": 2400,
+      "growth": "普通",
+      "dirt": "○",
+      "taishitsu": "B",
+      "kisei": "A",
+      "jisseki": "A",
+      "sokoryoku": "A",
+      "antei": "A",
+      "source": "https://www.asupon-workshop.online/dabisuta2-stallion-list/",
+      "type": "公開掲載値",
+      "from": 1600,
+      "major": "ネイティヴダンサー系",
+      "minor": "ミスタープロスペクター系",
+      "area": "海外"
+    },
+    {
+      "name": "Australia",
+      "system": "サドラーズウェルズ系",
+      "fee": 170,
+      "to": 2400,
+      "growth": "普通",
+      "dirt": "△",
+      "taishitsu": "B",
+      "kisei": "C",
+      "jisseki": "B",
+      "sokoryoku": "B",
+      "antei": "A",
+      "source": "https://www.asupon-workshop.online/dabisuta2-stallion-list/",
+      "type": "公開掲載値",
+      "from": 1600,
+      "major": "ニアークティック系",
+      "minor": "サドラーズウェルズ系",
+      "area": "海外"
+    },
+    {
+      "name": "Blue Point",
+      "system": "ストームキャット系",
+      "fee": 1800,
+      "to": 1600,
+      "growth": "普通",
+      "dirt": "△",
+      "taishitsu": "A",
+      "kisei": "A",
+      "jisseki": "A",
+      "sokoryoku": "B",
+      "antei": "A",
+      "source": "https://www.asupon-workshop.online/dabisuta2-stallion-list/",
+      "type": "公開掲載値",
+      "from": 1200
+    },
+    {
+      "name": "Camelot",
+      "system": "サドラーズウェルズ系",
+      "fee": 1100,
+      "to": 2600,
+      "growth": "持続",
+      "dirt": "△",
+      "taishitsu": "B",
+      "kisei": "A",
+      "jisseki": "A",
+      "sokoryoku": "A",
+      "antei": "B",
+      "source": "https://www.asupon-workshop.online/dabisuta2-stallion-list/",
+      "type": "公開掲載値",
+      "from": 1800,
+      "major": "ニアークティック系",
+      "minor": "サドラーズウェルズ系",
+      "area": "海外"
+    },
+    {
+      "name": "Candy Ride",
+      "system": "ミスタープロスペクター系",
+      "fee": 1000,
+      "to": 2200,
+      "growth": "普通",
+      "dirt": "○",
+      "taishitsu": "B",
+      "kisei": "A",
+      "jisseki": "A",
+      "sokoryoku": "B",
+      "antei": "B",
+      "source": "https://www.asupon-workshop.online/dabisuta2-stallion-list/",
+      "type": "公開掲載値",
+      "from": 1400,
+      "major": "ネイティヴダンサー系",
+      "minor": "ミスタープロスペクター系",
+      "area": "海外"
+    },
+    {
+      "name": "サンデーサイレンス",
+      "fee": 3000,
+      "taishitsu": "A",
+      "kisei": "B",
+      "jisseki": "A",
+      "sokoryoku": "A",
+      "antei": "A",
+      "to": 2400,
+      "growth": "持続",
+      "major": "ロイヤルチャージャー系",
+      "minor": "サンデーサイレンス系",
+      "system": "サンデーサイレンス系",
+      "area": "国内",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-japan-stallion-list/",
+      "type": "公開一覧照合",
+      "from": 1600
+    },
+    {
+      "name": "ノーザンテースト",
+      "fee": 2000,
+      "taishitsu": "A",
+      "kisei": "A",
+      "jisseki": "A",
+      "sokoryoku": "A",
+      "antei": "A",
+      "to": 2000,
+      "growth": "持続",
+      "major": "ニアークティック系",
+      "minor": "ノーザンダンサー系",
+      "system": "ノーザンダンサー系",
+      "area": "国内",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-japan-stallion-list/",
+      "type": "公開一覧照合",
+      "from": 1600
+    },
+    {
+      "name": "ブライアンズタイム",
+      "fee": 2000,
+      "taishitsu": "B",
+      "kisei": "B",
+      "jisseki": "A",
+      "sokoryoku": "A",
+      "antei": "A",
+      "to": 2600,
+      "growth": "普通",
+      "major": "ロイヤルチャージャー系",
+      "minor": "ロベルト系",
+      "system": "ロベルト系",
+      "area": "国内",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-japan-stallion-list/",
+      "type": "公開一覧照合",
+      "from": 1800
+    },
+    {
+      "name": "コントレイル",
+      "fee": 1800,
+      "taishitsu": "B",
+      "kisei": "B",
+      "jisseki": "B",
+      "sokoryoku": "A",
+      "antei": "A",
+      "to": 2400,
+      "growth": "普通",
+      "major": "ロイヤルチャージャー系",
+      "minor": "サンデーサイレンス系",
+      "system": "サンデーサイレンス系",
+      "area": "国内",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-japan-stallion-list/",
+      "type": "公開一覧照合",
+      "from": 1600
+    },
+    {
+      "name": "シンボリルドルフ",
+      "fee": 1600,
+      "taishitsu": "B",
+      "kisei": "C",
+      "jisseki": "B",
+      "sokoryoku": "B",
+      "antei": "C",
+      "to": 2600,
+      "growth": "普通",
+      "major": "ヘロド系",
+      "minor": "マイバブー系",
+      "system": "マイバブー系",
+      "area": "国内",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-japan-stallion-list/",
+      "type": "公開一覧照合",
+      "from": 1800
+    },
+    {
+      "name": "トニービン",
+      "fee": 1500,
+      "taishitsu": "B",
+      "kisei": "B",
+      "jisseki": "A",
+      "sokoryoku": "B",
+      "antei": "A",
+      "to": 2400,
+      "growth": "普通",
+      "major": "ナスルーラ系",
+      "minor": "ゼダーン系",
+      "system": "ゼダーン系",
+      "area": "国内",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-japan-stallion-list/",
+      "type": "公開一覧照合",
+      "from": 1600
+    },
+    {
+      "name": "マルゼンスキー",
+      "fee": 1200,
+      "taishitsu": "C",
+      "kisei": "A",
+      "jisseki": "A",
+      "sokoryoku": "A",
+      "antei": "A",
+      "to": 2400,
+      "growth": "普通",
+      "major": "ニアークティック系",
+      "minor": "ニジンスキー系",
+      "system": "ニジンスキー系",
+      "area": "国内",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-japan-stallion-list/",
+      "type": "公開一覧照合",
+      "from": 1600
+    },
+    {
+      "name": "ロードカナロア",
+      "fee": 1200,
+      "taishitsu": "A",
+      "kisei": "A",
+      "jisseki": "A",
+      "sokoryoku": "A",
+      "antei": "A",
+      "to": 1800,
+      "growth": "持続",
+      "major": "ネイティヴダンサー系",
+      "minor": "ミスタープロスペクター系",
+      "system": "ミスタープロスペクター系",
+      "area": "国内",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-japan-stallion-list/",
+      "type": "公開一覧照合",
+      "from": 1200
+    },
+    {
+      "name": "サートゥルナーリア",
+      "fee": 1000,
+      "taishitsu": "C",
+      "kisei": "B",
+      "jisseki": "A",
+      "sokoryoku": "B",
+      "antei": "A",
+      "to": 2000,
+      "growth": "持続",
+      "major": "ネイティヴダンサー系",
+      "minor": "ミスタープロスペクター系",
+      "system": "ミスタープロスペクター系",
+      "area": "国内",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-japan-stallion-list/",
+      "type": "公開一覧照合",
+      "from": 1400
+    },
+    {
+      "name": "ドゥラメンテ",
+      "fee": 1000,
+      "taishitsu": "C",
+      "kisei": "B",
+      "jisseki": "A",
+      "sokoryoku": "A",
+      "antei": "B",
+      "to": 2600,
+      "growth": "持続",
+      "major": "ネイティヴダンサー系",
+      "minor": "ミスタープロスペクター系",
+      "system": "ミスタープロスペクター系",
+      "area": "国内",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-japan-stallion-list/",
+      "type": "公開一覧照合",
+      "from": 1800
+    },
+    {
+      "name": "ハーツクライ",
+      "fee": 1000,
+      "taishitsu": "B",
+      "kisei": "C",
+      "jisseki": "A",
+      "sokoryoku": "A",
+      "antei": "B",
+      "to": 3000,
+      "growth": "早熟",
+      "major": "ロイヤルチャージャー系",
+      "minor": "サンデーサイレンス系",
+      "system": "サンデーサイレンス系",
+      "area": "国内",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-japan-stallion-list/",
+      "type": "公開一覧照合",
+      "from": 1800
+    },
+    {
+      "name": "リアルシャダイ",
+      "fee": 1000,
+      "taishitsu": "C",
+      "kisei": "A",
+      "jisseki": "A",
+      "sokoryoku": "A",
+      "antei": "A",
+      "to": 3000,
+      "growth": "持続",
+      "major": "ロイヤルチャージャー系",
+      "minor": "ロベルト系",
+      "system": "ロベルト系",
+      "area": "国内",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-japan-stallion-list/",
+      "type": "公開一覧照合",
+      "from": 1800
+    },
+    {
+      "name": "リアルスティール",
+      "fee": 1000,
+      "taishitsu": "C",
+      "kisei": "A",
+      "jisseki": "B",
+      "sokoryoku": "B",
+      "antei": "A",
+      "to": 2200,
+      "growth": "持続",
+      "major": "ロイヤルチャージャー系",
+      "minor": "サンデーサイレンス系",
+      "system": "サンデーサイレンス系",
+      "area": "国内",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-japan-stallion-list/",
+      "type": "公開一覧照合",
+      "from": 1600
+    },
+    {
+      "name": "シニスターミニスター",
+      "fee": 800,
+      "taishitsu": "A",
+      "kisei": "B",
+      "jisseki": "B",
+      "sokoryoku": "B",
+      "antei": "B",
+      "to": 2000,
+      "growth": "普通",
+      "major": "ナスルーラ系",
+      "minor": "ボールドルーラー系",
+      "system": "ボールドルーラー系",
+      "area": "国内",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-japan-stallion-list/",
+      "type": "公開一覧照合",
+      "from": 1400
+    },
+    {
+      "name": "Galileo",
+      "fee": 5000,
+      "taishitsu": "A",
+      "kisei": "A",
+      "jisseki": "A",
+      "sokoryoku": "A",
+      "antei": "B",
+      "to": 2600,
+      "growth": "普通",
+      "major": "ニアークティック系",
+      "minor": "サドラーズウェルズ系",
+      "system": "サドラーズウェルズ系",
+      "area": "海外",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-foreign-stallion-list/",
+      "type": "公開一覧照合",
+      "from": 1800
+    },
+    {
+      "name": "Dubawi",
+      "fee": 4500,
+      "taishitsu": "A",
+      "kisei": "B",
+      "jisseki": "A",
+      "sokoryoku": "A",
+      "antei": "B",
+      "to": 2000,
+      "growth": "普通",
+      "major": "ネイティヴダンサー系",
+      "minor": "ミスタープロスペクター系",
+      "system": "ミスタープロスペクター系",
+      "area": "海外",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-foreign-stallion-list/",
+      "type": "公開一覧照合",
+      "from": 1200
+    },
+    {
+      "name": "Frankel",
+      "fee": 4500,
+      "taishitsu": "A",
+      "kisei": "B",
+      "jisseki": "A",
+      "sokoryoku": "A",
+      "antei": "A",
+      "to": 2000,
+      "growth": "普通",
+      "major": "ニアークティック系",
+      "minor": "サドラーズウェルズ系",
+      "system": "サドラーズウェルズ系",
+      "area": "海外",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-foreign-stallion-list/",
+      "type": "公開一覧照合",
+      "from": 1400
+    },
+    {
+      "name": "Sea The Stars",
+      "fee": 4000,
+      "taishitsu": "B",
+      "kisei": "B",
+      "jisseki": "A",
+      "sokoryoku": "B",
+      "antei": "A",
+      "to": 2600,
+      "growth": "普通",
+      "major": "ニアークティック系",
+      "minor": "ダンチヒ系",
+      "system": "ダンチヒ系",
+      "area": "海外",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-foreign-stallion-list/",
+      "type": "公開一覧照合",
+      "from": 1800
+    },
+    {
+      "name": "Wootton Bassett",
+      "fee": 4000,
+      "taishitsu": "B",
+      "kisei": "B",
+      "jisseki": "A",
+      "sokoryoku": "B",
+      "antei": "C",
+      "to": 1800,
+      "growth": "早熟",
+      "major": "ネイティヴダンサー系",
+      "minor": "ミスタープロスペクター系",
+      "system": "ミスタープロスペクター系",
+      "area": "海外",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-foreign-stallion-list/",
+      "type": "公開一覧照合",
+      "from": 1200
+    },
+    {
+      "name": "Into Mischief",
+      "fee": 3900,
+      "taishitsu": "B",
+      "kisei": "B",
+      "jisseki": "A",
+      "sokoryoku": "B",
+      "antei": "B",
+      "to": 1600,
+      "growth": "持続",
+      "major": "ニアークティック系",
+      "minor": "ストームキャット系",
+      "system": "ストームキャット系",
+      "area": "海外",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-foreign-stallion-list/",
+      "type": "公開一覧照合",
+      "from": 1200
+    },
+    {
+      "name": "Gun Runner",
+      "fee": 3800,
+      "taishitsu": "A",
+      "kisei": "A",
+      "jisseki": "A",
+      "sokoryoku": "A",
+      "antei": "A",
+      "to": 2400,
+      "growth": "持続",
+      "major": "ネイティヴダンサー系",
+      "minor": "ミスタープロスペクター系",
+      "system": "ミスタープロスペクター系",
+      "area": "海外",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-foreign-stallion-list/",
+      "type": "公開一覧照合",
+      "from": 1600
+    },
+    {
+      "name": "Not This Time",
+      "fee": 3800,
+      "taishitsu": "A",
+      "kisei": "A",
+      "jisseki": "A",
+      "sokoryoku": "B",
+      "antei": "A",
+      "to": 2200,
+      "growth": "持続",
+      "major": "ニアークティック系",
+      "minor": "ストームキャット系",
+      "system": "ストームキャット系",
+      "area": "海外",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-foreign-stallion-list/",
+      "type": "公開一覧照合",
+      "from": 1400
+    },
+    {
+      "name": "Lope de Vega",
+      "fee": 3600,
+      "taishitsu": "B",
+      "kisei": "B",
+      "jisseki": "A",
+      "sokoryoku": "B",
+      "antei": "A",
+      "to": 2200,
+      "growth": "早熟",
+      "major": "ニアークティック系",
+      "minor": "ストームキャット系",
+      "system": "ストームキャット系",
+      "area": "海外",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-foreign-stallion-list/",
+      "type": "公開一覧照合",
+      "from": 1600
+    },
+    {
+      "name": "Night of Thunder",
+      "fee": 3600,
+      "taishitsu": "C",
+      "kisei": "A",
+      "jisseki": "A",
+      "sokoryoku": "B",
+      "antei": "B",
+      "to": 1800,
+      "growth": "持続",
+      "major": "ネイティヴダンサー系",
+      "minor": "ミスタープロスペクター系",
+      "system": "ミスタープロスペクター系",
+      "area": "海外",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-foreign-stallion-list/",
+      "type": "公開一覧照合",
+      "from": 1200
+    },
+    {
+      "name": "Justify",
+      "fee": 3000,
+      "taishitsu": "C",
+      "kisei": "B",
+      "jisseki": "A",
+      "sokoryoku": "A",
+      "antei": "A",
+      "to": 2200,
+      "growth": "早熟",
+      "major": "ニアークティック系",
+      "minor": "ストームキャット系",
+      "system": "ストームキャット系",
+      "area": "海外",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-foreign-stallion-list/",
+      "type": "公開一覧照合",
+      "from": 1400
+    },
+    {
+      "name": "Siyouni",
+      "fee": 2500,
+      "taishitsu": "B",
+      "kisei": "B",
+      "jisseki": "B",
+      "sokoryoku": "A",
+      "antei": "A",
+      "to": 1600,
+      "growth": "早熟",
+      "major": "ニアークティック系",
+      "minor": "ヌレイエフ系",
+      "system": "ヌレイエフ系",
+      "area": "海外",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-foreign-stallion-list/",
+      "type": "公開一覧照合",
+      "from": 1200
+    },
+    {
+      "name": "Tapit",
+      "fee": 2500,
+      "taishitsu": "B",
+      "kisei": "B",
+      "jisseki": "A",
+      "sokoryoku": "A",
+      "antei": "A",
+      "to": 2000,
+      "growth": "持続",
+      "major": "ナスルーラ系",
+      "minor": "ボールドルーラー系",
+      "system": "ボールドルーラー系",
+      "area": "海外",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-foreign-stallion-list/",
+      "type": "公開一覧照合",
+      "from": 1400
+    },
+    {
+      "name": "Kingman",
+      "fee": 2400,
+      "taishitsu": "B",
+      "kisei": "B",
+      "jisseki": "A",
+      "sokoryoku": "A",
+      "antei": "B",
+      "to": 1800,
+      "growth": "持続",
+      "major": "ニアークティック系",
+      "minor": "ダンチヒ系",
+      "system": "ダンチヒ系",
+      "area": "海外",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-foreign-stallion-list/",
+      "type": "公開一覧照合",
+      "from": 1400
+    },
+    {
+      "name": "Uncle Mo",
+      "fee": 2300,
+      "taishitsu": "B",
+      "kisei": "B",
+      "jisseki": "B",
+      "sokoryoku": "B",
+      "antei": "B",
+      "to": 1800,
+      "growth": "早熟",
+      "major": "ナスルーラ系",
+      "minor": "フォルティノ系",
+      "system": "フォルティノ系",
+      "area": "海外",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-foreign-stallion-list/",
+      "type": "公開一覧照合",
+      "from": 1200
+    },
+    {
+      "name": "スクリーンヒーロー",
+      "fee": 600,
+      "taishitsu": "B",
+      "kisei": "B",
+      "jisseki": "B",
+      "sokoryoku": "B",
+      "antei": "A",
+      "to": 2200,
+      "growth": "普通",
+      "major": "ロイヤルチャージャー系",
+      "minor": "ロベルト系",
+      "system": "ロベルト系",
+      "area": "国内",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-japan-stallion-list/",
+      "type": "公開一覧照合",
+      "from": 1600
+    },
+    {
+      "name": "モズアスコット",
+      "fee": 600,
+      "taishitsu": "B",
+      "kisei": "B",
+      "jisseki": "B",
+      "sokoryoku": "C",
+      "antei": "B",
+      "to": 1600,
+      "growth": "持続",
+      "major": "ニアークティック系",
+      "minor": "サドラーズウェルズ系",
+      "system": "サドラーズウェルズ系",
+      "area": "国内",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-japan-stallion-list/",
+      "type": "公開一覧照合",
+      "from": 1200
+    },
+    {
+      "name": "アドマイヤマーズ",
+      "fee": 500,
+      "taishitsu": "B",
+      "kisei": "B",
+      "jisseki": "B",
+      "sokoryoku": "A",
+      "antei": "A",
+      "to": 1800,
+      "growth": "早熟",
+      "major": "ロイヤルチャージャー系",
+      "minor": "サンデーサイレンス系",
+      "system": "サンデーサイレンス系",
+      "area": "国内",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-japan-stallion-list/",
+      "type": "公開一覧照合",
+      "from": 1200
+    },
+    {
+      "name": "ヘニーヒューズ",
+      "fee": 500,
+      "taishitsu": "B",
+      "kisei": "B",
+      "jisseki": "A",
+      "sokoryoku": "B",
+      "antei": "A",
+      "to": 1600,
+      "growth": "持続",
+      "major": "ニアークティック系",
+      "minor": "ストームキャット系",
+      "system": "ストームキャット系",
+      "area": "国内",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-japan-stallion-list/",
+      "type": "公開一覧照合",
+      "from": 1200
+    },
+    {
+      "name": "リオンディーズ",
+      "fee": 500,
+      "taishitsu": "B",
+      "kisei": "B",
+      "jisseki": "B",
+      "sokoryoku": "A",
+      "antei": "B",
+      "to": 2000,
+      "growth": "普通",
+      "major": "ネイティヴダンサー系",
+      "minor": "ミスタープロスペクター系",
+      "system": "ミスタープロスペクター系",
+      "area": "国内",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-japan-stallion-list/",
+      "type": "公開一覧照合",
+      "from": 1400
+    },
+    {
+      "name": "オグリキャップ",
+      "fee": 400,
+      "taishitsu": "A",
+      "kisei": "B",
+      "jisseki": "C",
+      "sokoryoku": "B",
+      "antei": "C",
+      "to": 2000,
+      "growth": "普通",
+      "major": "ネイティヴダンサー系",
+      "minor": "ネイティヴダンサー系",
+      "system": "ネイティヴダンサー系",
+      "area": "国内",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-japan-stallion-list/",
+      "type": "公開一覧照合",
+      "from": 1400
+    },
+    {
+      "name": "シスキン",
+      "fee": 400,
+      "taishitsu": "C",
+      "kisei": "B",
+      "jisseki": "A",
+      "sokoryoku": "A",
+      "antei": "B",
+      "to": 1800,
+      "growth": "早熟",
+      "major": "ネイティヴダンサー系",
+      "minor": "ミスタープロスペクター系",
+      "system": "ミスタープロスペクター系",
+      "area": "国内",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-japan-stallion-list/",
+      "type": "公開一覧照合",
+      "from": 1200
+    },
+    {
+      "name": "パイロ",
+      "fee": 400,
+      "taishitsu": "B",
+      "kisei": "C",
+      "jisseki": "B",
+      "sokoryoku": "B",
+      "antei": "B",
+      "to": 2000,
+      "growth": "早熟",
+      "major": "ナスルーラ系",
+      "minor": "ボールドルーラー系",
+      "system": "ボールドルーラー系",
+      "area": "国内",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-japan-stallion-list/",
+      "type": "公開一覧照合",
+      "from": 1400
+    },
+    {
+      "name": "ルヴァンスレーヴ",
+      "fee": 400,
+      "taishitsu": "B",
+      "kisei": "C",
+      "jisseki": "B",
+      "sokoryoku": "B",
+      "antei": "B",
+      "to": 2200,
+      "growth": "早熟",
+      "major": "ロイヤルチャージャー系",
+      "minor": "ロベルト系",
+      "system": "ロベルト系",
+      "area": "国内",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-japan-stallion-list/",
+      "type": "公開一覧照合",
+      "from": 1600
+    },
+    {
+      "name": "シルバーステート",
+      "fee": 350,
+      "taishitsu": "C",
+      "kisei": "B",
+      "jisseki": "B",
+      "sokoryoku": "A",
+      "antei": "A",
+      "to": 2200,
+      "growth": "持続",
+      "major": "ロイヤルチャージャー系",
+      "minor": "サンデーサイレンス系",
+      "system": "サンデーサイレンス系",
+      "area": "国内",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-japan-stallion-list/",
+      "type": "公開一覧照合",
+      "from": 1600
+    },
+    {
+      "name": "ハービンジャー",
+      "fee": 350,
+      "taishitsu": "A",
+      "kisei": "B",
+      "jisseki": "B",
+      "sokoryoku": "A",
+      "antei": "B",
+      "to": 2600,
+      "growth": "普通",
+      "major": "ニアークティック系",
+      "minor": "ダンチヒ系",
+      "system": "ダンチヒ系",
+      "area": "国内",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-japan-stallion-list/",
+      "type": "公開一覧照合",
+      "from": 1800
+    },
+    {
+      "name": "パレスマリス",
+      "fee": 350,
+      "taishitsu": "B",
+      "kisei": "B",
+      "jisseki": "A",
+      "sokoryoku": "B",
+      "antei": "B",
+      "to": 1800,
+      "growth": "普通",
+      "major": "ネイティヴダンサー系",
+      "minor": "ミスタープロスペクター系",
+      "system": "ミスタープロスペクター系",
+      "area": "国内",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-japan-stallion-list/",
+      "type": "公開一覧照合",
+      "from": 1200
+    },
+    {
+      "name": "カラヴァッジオ",
+      "fee": 300,
+      "taishitsu": "B",
+      "kisei": "A",
+      "jisseki": "B",
+      "sokoryoku": "B",
+      "antei": "B",
+      "to": 1400,
+      "growth": "持続",
+      "major": "ニアークティック系",
+      "minor": "ストームキャット系",
+      "system": "ストームキャット系",
+      "area": "国内",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-japan-stallion-list/",
+      "type": "公開一覧照合",
+      "from": 1000
+    },
+    {
+      "name": "ゴールドアリュール",
+      "fee": 300,
+      "taishitsu": "B",
+      "kisei": "A",
+      "jisseki": "B",
+      "sokoryoku": "B",
+      "antei": "A",
+      "to": 2200,
+      "growth": "普通",
+      "major": "ロイヤルチャージャー系",
+      "minor": "サンデーサイレンス系",
+      "system": "サンデーサイレンス系",
+      "area": "国内",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-japan-stallion-list/",
+      "type": "公開一覧照合",
+      "from": 1600
+    },
+    {
+      "name": "ブラックタイド",
+      "fee": 300,
+      "taishitsu": "B",
+      "kisei": "B",
+      "jisseki": "B",
+      "sokoryoku": "B",
+      "antei": "C",
+      "to": 2400,
+      "growth": "普通",
+      "major": "ロイヤルチャージャー系",
+      "minor": "サンデーサイレンス系",
+      "system": "サンデーサイレンス系",
+      "area": "国内",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-japan-stallion-list/",
+      "type": "公開一覧照合",
+      "from": 1600
+    },
+    {
+      "name": "ポエティックフレア",
+      "fee": 300,
+      "taishitsu": "A",
+      "kisei": "B",
+      "jisseki": "B",
+      "sokoryoku": "B",
+      "antei": "B",
+      "to": 2000,
+      "growth": "持続",
+      "major": "ニアークティック系",
+      "minor": "サドラーズウェルズ系",
+      "system": "サドラーズウェルズ系",
+      "area": "国内",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-japan-stallion-list/",
+      "type": "公開一覧照合",
+      "from": 1400
+    },
+    {
+      "name": "ホッコータルマエ",
+      "fee": 300,
+      "taishitsu": "A",
+      "kisei": "B",
+      "jisseki": "B",
+      "sokoryoku": "B",
+      "antei": "B",
+      "to": 2400,
+      "growth": "普通",
+      "major": "ネイティヴダンサー系",
+      "minor": "ミスタープロスペクター系",
+      "system": "ミスタープロスペクター系",
+      "area": "国内",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-japan-stallion-list/",
+      "type": "公開一覧照合",
+      "from": 1600
+    },
+    {
+      "name": "マジェスティックウォリアー",
+      "fee": 300,
+      "taishitsu": "B",
+      "kisei": "B",
+      "jisseki": "B",
+      "sokoryoku": "B",
+      "antei": "B",
+      "to": 2200,
+      "growth": "普通",
+      "major": "ナスルーラ系",
+      "minor": "ボールドルーラー系",
+      "system": "ボールドルーラー系",
+      "area": "国内",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-japan-stallion-list/",
+      "type": "公開一覧照合",
+      "from": 1600
+    },
+    {
+      "name": "キンシャサノキセキ",
+      "fee": 250,
+      "taishitsu": "B",
+      "kisei": "B",
+      "jisseki": "B",
+      "sokoryoku": "B",
+      "antei": "A",
+      "to": 1400,
+      "growth": "晩成",
+      "major": "ロイヤルチャージャー系",
+      "minor": "サンデーサイレンス系",
+      "system": "サンデーサイレンス系",
+      "area": "国内",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-japan-stallion-list/",
+      "type": "公開一覧照合",
+      "from": 1000
+    },
+    {
+      "name": "Quality Road",
+      "fee": 1600,
+      "taishitsu": "C",
+      "kisei": "B",
+      "jisseki": "A",
+      "sokoryoku": "B",
+      "antei": "A",
+      "to": 2000,
+      "growth": "持続",
+      "major": "ネイティヴダンサー系",
+      "minor": "ミスタープロスペクター系",
+      "system": "ミスタープロスペクター系",
+      "area": "海外",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-foreign-stallion-list/",
+      "type": "公開一覧照合",
+      "from": 1400
+    },
+    {
+      "name": "Fastnet Rock",
+      "fee": 1500,
+      "taishitsu": "B",
+      "kisei": "B",
+      "jisseki": "A",
+      "sokoryoku": "B",
+      "antei": "A",
+      "to": 1400,
+      "growth": "持続",
+      "major": "ニアークティック系",
+      "minor": "ダンチヒ系",
+      "system": "ダンチヒ系",
+      "area": "海外",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-foreign-stallion-list/",
+      "type": "公開一覧照合",
+      "from": 1000
+    },
+    {
+      "name": "Zarak",
+      "fee": 1400,
+      "taishitsu": "B",
+      "kisei": "B",
+      "jisseki": "B",
+      "sokoryoku": "A",
+      "antei": "A",
+      "to": 2400,
+      "growth": "普通",
+      "major": "ネイティヴダンサー系",
+      "minor": "ミスタープロスペクター系",
+      "system": "ミスタープロスペクター系",
+      "area": "海外",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-foreign-stallion-list/",
+      "type": "公開一覧照合",
+      "from": 1600
+    },
+    {
+      "name": "Mehmas",
+      "fee": 1200,
+      "taishitsu": "B",
+      "kisei": "A",
+      "jisseki": "B",
+      "sokoryoku": "A",
+      "antei": "B",
+      "to": 1600,
+      "growth": "早熟",
+      "major": "ニアークティック系",
+      "minor": "ノーザンダンサー系",
+      "system": "ノーザンダンサー系",
+      "area": "海外",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-foreign-stallion-list/",
+      "type": "公開一覧照合",
+      "from": 1200
+    },
+    {
+      "name": "Speightstown",
+      "fee": 1200,
+      "taishitsu": "B",
+      "kisei": "A",
+      "jisseki": "A",
+      "sokoryoku": "B",
+      "antei": "A",
+      "to": 1600,
+      "growth": "持続",
+      "major": "ネイティヴダンサー系",
+      "minor": "ミスタープロスペクター系",
+      "system": "ミスタープロスペクター系",
+      "area": "海外",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-foreign-stallion-list/",
+      "type": "公開一覧照合",
+      "from": 1000
+    },
+    {
+      "name": "Starspangledbanner",
+      "fee": 1100,
+      "taishitsu": "A",
+      "kisei": "A",
+      "jisseki": "B",
+      "sokoryoku": "B",
+      "antei": "B",
+      "to": 1800,
+      "growth": "普通",
+      "major": "ニアークティック系",
+      "minor": "ダンチヒ系",
+      "system": "ダンチヒ系",
+      "area": "海外",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-foreign-stallion-list/",
+      "type": "公開一覧照合",
+      "from": 1200
+    },
+    {
+      "name": "Dark Angel",
+      "fee": 1000,
+      "taishitsu": "B",
+      "kisei": "A",
+      "jisseki": "A",
+      "sokoryoku": "B",
+      "antei": "B",
+      "to": 1400,
+      "growth": "普通",
+      "major": "ニアークティック系",
+      "minor": "ノーザンダンサー系",
+      "system": "ノーザンダンサー系",
+      "area": "海外",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-foreign-stallion-list/",
+      "type": "公開一覧照合",
+      "from": 1000
+    },
+    {
+      "name": "Havana Grey",
+      "fee": 1000,
+      "taishitsu": "A",
+      "kisei": "A",
+      "jisseki": "B",
+      "sokoryoku": "A",
+      "antei": "B",
+      "to": 1600,
+      "growth": "持続",
+      "major": "ニアークティック系",
+      "minor": "サドラーズウェルズ系",
+      "system": "サドラーズウェルズ系",
+      "area": "海外",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-foreign-stallion-list/",
+      "type": "公開一覧照合",
+      "from": 1200
+    },
+    {
+      "name": "Super Saver",
+      "fee": 1000,
+      "taishitsu": "B",
+      "kisei": "B",
+      "jisseki": "B",
+      "sokoryoku": "B",
+      "antei": "B",
+      "to": 2000,
+      "growth": "早熟",
+      "major": "ネイティヴダンサー系",
+      "minor": "レイズアネイティヴ系",
+      "system": "レイズアネイティヴ系",
+      "area": "海外",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-foreign-stallion-list/",
+      "type": "公開一覧照合",
+      "from": 1400
+    },
+    {
+      "name": "War Front",
+      "fee": 1000,
+      "taishitsu": "A",
+      "kisei": "B",
+      "jisseki": "A",
+      "sokoryoku": "B",
+      "antei": "A",
+      "to": 1800,
+      "growth": "普通",
+      "major": "ニアークティック系",
+      "minor": "ダンチヒ系",
+      "system": "ダンチヒ系",
+      "area": "海外",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-foreign-stallion-list/",
+      "type": "公開一覧照合",
+      "from": 1200
+    },
+    {
+      "name": "Munnings",
+      "fee": 700,
+      "taishitsu": "B",
+      "kisei": "B",
+      "jisseki": "B",
+      "sokoryoku": "B",
+      "antei": "B",
+      "to": 1800,
+      "growth": "持続",
+      "major": "ネイティヴダンサー系",
+      "minor": "ミスタープロスペクター系",
+      "system": "ミスタープロスペクター系",
+      "area": "海外",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-foreign-stallion-list/",
+      "type": "公開一覧照合",
+      "from": 1200
+    },
+    {
+      "name": "Le Havre",
+      "fee": 600,
+      "taishitsu": "C",
+      "kisei": "B",
+      "jisseki": "A",
+      "sokoryoku": "B",
+      "antei": "B",
+      "to": 1800,
+      "growth": "普通",
+      "major": "ナスルーラ系",
+      "minor": "レッドゴッド系",
+      "system": "レッドゴッド系",
+      "area": "海外",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-foreign-stallion-list/",
+      "type": "公開一覧照合",
+      "from": 1400
+    },
+    {
+      "name": "Gleneagles",
+      "fee": 350,
+      "taishitsu": "B",
+      "kisei": "B",
+      "jisseki": "B",
+      "sokoryoku": "B",
+      "antei": "C",
+      "to": 2400,
+      "growth": "普通",
+      "major": "ニアークティック系",
+      "minor": "サドラーズウェルズ系",
+      "system": "サドラーズウェルズ系",
+      "area": "海外",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-foreign-stallion-list/",
+      "type": "公開一覧照合",
+      "from": 1600
+    },
+    {
+      "name": "Nathaniel",
+      "fee": 300,
+      "taishitsu": "B",
+      "kisei": "B",
+      "jisseki": "B",
+      "sokoryoku": "B",
+      "antei": "C",
+      "to": 2600,
+      "growth": "普通",
+      "major": "ニアークティック系",
+      "minor": "サドラーズウェルズ系",
+      "system": "サドラーズウェルズ系",
+      "area": "海外",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-foreign-stallion-list/",
+      "type": "公開一覧照合",
+      "from": 1800
+    },
+    {
+      "name": "Churchill",
+      "fee": 280,
+      "taishitsu": "B",
+      "kisei": "C",
+      "jisseki": "B",
+      "sokoryoku": "B",
+      "antei": "C",
+      "to": 2200,
+      "growth": "持続",
+      "major": "ニアークティック系",
+      "minor": "サドラーズウェルズ系",
+      "system": "サドラーズウェルズ系",
+      "area": "海外",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-foreign-stallion-list/",
+      "type": "公開一覧照合",
+      "from": 1400
+    },
+    {
+      "name": "Shalaa",
+      "fee": 210,
+      "taishitsu": "A",
+      "kisei": "B",
+      "jisseki": "B",
+      "sokoryoku": "A",
+      "antei": "B",
+      "to": 1600,
+      "growth": "普通",
+      "major": "ニアークティック系",
+      "minor": "ダンチヒ系",
+      "system": "ダンチヒ系",
+      "area": "海外",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-foreign-stallion-list/",
+      "type": "公開一覧照合",
+      "from": 1000
+    },
+    {
+      "name": "Frosted",
+      "fee": 200,
+      "taishitsu": "A",
+      "kisei": "B",
+      "jisseki": "B",
+      "sokoryoku": "B",
+      "antei": "B",
+      "to": 1600,
+      "growth": "普通",
+      "major": "ナスルーラ系",
+      "minor": "ボールドルーラー系",
+      "system": "ボールドルーラー系",
+      "area": "海外",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-foreign-stallion-list/",
+      "type": "公開一覧照合",
+      "from": 1000
+    },
+    {
+      "name": "Lemon Drop Kid",
+      "fee": 200,
+      "taishitsu": "A",
+      "kisei": "C",
+      "jisseki": "B",
+      "sokoryoku": "B",
+      "antei": "B",
+      "to": 1800,
+      "growth": "持続",
+      "major": "ネイティヴダンサー系",
+      "minor": "ミスタープロスペクター系",
+      "system": "ミスタープロスペクター系",
+      "area": "海外",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-foreign-stallion-list/",
+      "type": "公開一覧照合",
+      "from": 1200
+    },
+    {
+      "name": "Cracksman",
+      "fee": 180,
+      "taishitsu": "B",
+      "kisei": "A",
+      "jisseki": "B",
+      "sokoryoku": "B",
+      "antei": "C",
+      "to": 2400,
+      "growth": "晩成",
+      "major": "ニアークティック系",
+      "minor": "サドラーズウェルズ系",
+      "system": "サドラーズウェルズ系",
+      "area": "海外",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-foreign-stallion-list/",
+      "type": "公開一覧照合",
+      "from": 1600
+    },
+    {
+      "name": "Saxon Warrior",
+      "fee": 180,
+      "taishitsu": "C",
+      "kisei": "C",
+      "jisseki": "B",
+      "sokoryoku": "B",
+      "antei": "A",
+      "to": 2400,
+      "growth": "持続",
+      "major": "ロイヤルチャージャー系",
+      "minor": "サンデーサイレンス系",
+      "system": "サンデーサイレンス系",
+      "area": "海外",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-foreign-stallion-list/",
+      "type": "公開一覧照合",
+      "from": 1600
+    },
+    {
+      "name": "アイルハヴアナザー",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "アジアエクスプレス",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "アスカクリチャン",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "アドマイヤムーン",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "アニマルキングダム",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "アポロキングダム",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "アポロケンタッキー",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "アポロソニック",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "アメリカンペイトリオット",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "アルアイン",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "アンライバルド",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "イスラボニータ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "インディチャンプ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "ウインバリアシオン",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "ウインブライト",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "ヴァンゴッホ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "ヴァンセンヌ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "ヴィクトワールピサ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "エイシンヒカリ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "エイシンフラッシュ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "エスケンデレヤ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "エスポワールシチー",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "エピカリス",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "エポカドーロ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "カリフォルニアクローム",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "カルストンライトオ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "カレンブラックヒル",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "ガルボ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "キセキ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "クリエイターⅡ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "クリソベリル",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "クロフネ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "クワイトファイン",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "グラスワンダー",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "グランデッツァ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "グランプリボス",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "グレーターロンドン",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "ケイムホーム",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "ケープブランコ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "コパノリチャード",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "コパノリッキー",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "ゴールドアクター",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "ゴールドドリーム",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "サクラバクシンオー",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "サトノアラジン",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "サトノクラウン",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "サトノダイヤモンド",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "サンダースノー",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "ザファクター",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "シャンハイボビー",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "シュヴァルグラン",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "シルポート",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "シンボリクリスエス",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "ジャスタウェイ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "ジャングルポケット",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "ジョーカプチーノ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "スズカコーズウェイ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "ストロングリターン",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "スピルバーグ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "スマートファルコン",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "セレスハント",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "タートルボウル",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "タニノフランケル",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "タリスマニック",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "タワーオブロンドン",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "ダノンキングリー",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "ダノンスマッシュ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "ダノンバラード",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "ダノンプレミアム",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "ダノンレジェンド",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "ダンカーク",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "ディスクリートキャット",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "ディープブリランテ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "ディーマジェスティ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "デクラレーションオブウォー",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "トウケイヘイロー",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "トゥザワールド",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "トーセンホマレボシ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "トーセンラー",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "トビーズコーナー",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "トランセンド",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "ドリームジャーニー",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "ドレフォン",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "ナカヤマフェスタ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "ナダル",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "ニューイヤーズデイ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "ネオユニヴァース",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "ネロ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "ノヴェリスト",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "ノーブルミッション",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "ハクサンムーン",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "バゴ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "バトルプラン",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "バンドワゴン",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "バンブーエール",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "パドトロワ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "ビーチパトロール",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "ビッグアーサー",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "ファインニードル",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "フィエールマン",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "フェノーメノ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "フサイチセブン",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "フィレンツェファイア",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "フォーウィールドライブ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "フリオーソ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "ブリックスアンドモルタル",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "ヘンリーバローズ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "ベーカバド",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "ベストウォーリア",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "ベルシャザール",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "ベンバトル",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "ホークビル",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "マインドユアビスケッツ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "マクフィ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "マチカネイワシミズ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "マツリダゴッホ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "マテラスカイ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "ミスターメロディ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "ミスチヴィアスアレックス",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "ミッキーアイル",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "ミッキーグローリー",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "ミッキーロケット",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "メイショウサムソン",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "メイショウボーラー",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "モーニン",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "モンテロッソ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "ヤマカツエース",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "ヤングマンパワー",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "ラニ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "ラブリーデイ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "リアルインパクト",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "リオンリオン",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "リーチザクラウン",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "レイデオロ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "レッドファルクス",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "ロゴタイプ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "ロージズインメイ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "ロジャーバローズ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "ロジユニヴァース",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "ローレルゲレイロ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "ワールドエース",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "ワールドプレミア",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "ワンアンドオンリー",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "Constitution",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "Ghostzapper",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "Maxfield",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "No Nay Never",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "Paynter",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    },
+    {
+      "name": "Too Darn Hot",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/"
+    }
+  ],
+  "mares": [
+    {
+      "name": "ココシュニック",
+      "sp": 4901,
+      "st": 4901,
+      "pw": 4613,
+      "sire": "",
+      "note": "参考価格：1.1億円（数値の実機確認推奨）",
+      "source": "https://ds2.yublog.com/",
+      "type": "公開資料照合",
+      "price": 11000,
+      "system": "ニアークティック系",
+      "minor": "ヴァイスリージェント",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "キャバレイ",
+      "sp": 8560,
+      "st": 7004,
+      "pw": 7324,
+      "sire": "",
+      "note": "参考価格：7億円",
+      "source": "https://note.com/modern_shrew567/n/na9efbfa57558",
+      "type": "公開資料照合",
+      "system": "ニアークティック系",
+      "price": 70000,
+      "minor": "サドラーズウェルズ",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "シーザリオ",
+      "sp": 7723,
+      "st": 7723,
+      "pw": 7269,
+      "sire": "",
+      "note": "公開一覧参考価格：68,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "price": 68000,
+      "system": "ロイヤルチャージャー系",
+      "minor": "サンデーサイレンス",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "アーモニーズエンジェル",
+      "sp": 7109,
+      "st": 5816,
+      "pw": 6366,
+      "sire": "",
+      "system": "ナスルーラ系",
+      "note": "参考価格：3.6億円",
+      "source": "https://crea-management.jp/shared-docs/ai-deliverables/dabista2-switch2-guide-20261001/mares.html",
+      "type": "公開資料照合",
+      "price": 36000,
+      "minor": "ボールドルーラー",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "アーモンドアイ",
+      "sp": 6247,
+      "st": 6247,
+      "pw": 5613,
+      "sire": "",
+      "system": "ネイティヴダンサー系",
+      "note": "参考価格：2.8億円",
+      "source": "https://crea-management.jp/shared-docs/ai-deliverables/dabista2-switch2-guide-20261001/mares.html",
+      "type": "公開資料照合",
+      "price": 28000,
+      "minor": "ミスタープロスペクター",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "アイムユアーズ",
+      "sp": 3648,
+      "st": 3648,
+      "pw": 3433,
+      "sire": "",
+      "system": "ニアークティック系",
+      "note": "参考価格：3000万円",
+      "source": "https://crea-management.jp/shared-docs/ai-deliverables/dabista2-switch2-guide-20261001/mares.html",
+      "type": "公開資料照合",
+      "minor": "ノーザンダンサー",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "アクアリング",
+      "sp": 5363,
+      "st": 5363,
+      "pw": 5047,
+      "sire": "",
+      "system": "ニアークティック系",
+      "note": "参考価格：1.6億円",
+      "source": "https://crea-management.jp/shared-docs/ai-deliverables/dabista2-switch2-guide-20261001/mares.html",
+      "type": "公開資料照合",
+      "minor": "ダンチヒ",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "アクトレス",
+      "sp": 5897,
+      "st": 5897,
+      "pw": 5809,
+      "sire": "",
+      "system": "系統確認中",
+      "note": "参考価格：2.5億円",
+      "source": "https://crea-management.jp/shared-docs/ai-deliverables/dabista2-switch2-guide-20261001/mares.html",
+      "type": "公開資料照合",
+      "price": 25000,
+      "minor": "ボールドルーラー",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "アスコルティ",
+      "sp": 6891,
+      "st": 5638,
+      "pw": 5896,
+      "sire": "",
+      "system": "ニアークティック系",
+      "note": "参考価格：3億円",
+      "source": "https://crea-management.jp/shared-docs/ai-deliverables/dabista2-switch2-guide-20261001/mares.html",
+      "type": "公開資料照合",
+      "price": 30000,
+      "minor": "ダンチヒ",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "アディクティド",
+      "sp": 4201,
+      "st": 3437,
+      "pw": 3594,
+      "sire": "",
+      "system": "マッチェム系",
+      "note": "参考価格：3700万円",
+      "source": "https://crea-management.jp/shared-docs/ai-deliverables/dabista2-switch2-guide-20261001/mares.html",
+      "type": "公開資料照合",
+      "minor": "インテント",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "アドマイヤテレサ",
+      "sp": 4590,
+      "st": 5611,
+      "pw": 4800,
+      "sire": "",
+      "system": "ニアークティック系",
+      "note": "参考価格：1.3億円",
+      "source": "https://crea-management.jp/shared-docs/ai-deliverables/dabista2-switch2-guide-20261001/mares.html",
+      "type": "公開資料照合",
+      "price": 13000,
+      "minor": "ノーザンダンサー",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "アナスタシアブルー",
+      "sp": 3841,
+      "st": 3841,
+      "pw": 3615,
+      "sire": "",
+      "system": "ニアークティック系",
+      "note": "参考価格：3800万円",
+      "source": "https://crea-management.jp/shared-docs/ai-deliverables/dabista2-switch2-guide-20261001/mares.html",
+      "type": "公開資料照合",
+      "minor": "ノーザンダンサー",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "アニメイトバイオ",
+      "sp": 4792,
+      "st": 4792,
+      "pw": 4510,
+      "sire": "",
+      "system": "ロイヤルチャージャー系",
+      "note": "参考価格：1億円",
+      "source": "https://crea-management.jp/shared-docs/ai-deliverables/dabista2-switch2-guide-20261001/mares.html",
+      "type": "公開資料照合",
+      "minor": "サンデーサイレンス",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "アパパネ",
+      "sp": 6101,
+      "st": 6101,
+      "pw": 5742,
+      "sire": "",
+      "system": "ネイティヴダンサー系",
+      "note": "参考価格：2.7億円",
+      "source": "https://crea-management.jp/shared-docs/ai-deliverables/dabista2-switch2-guide-20261001/mares.html",
+      "type": "公開資料照合",
+      "price": 27000,
+      "minor": "ミスタープロスペクター",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "アピールⅡ",
+      "sp": 3885,
+      "st": 3885,
+      "pw": 3656,
+      "sire": "",
+      "system": "ネイティヴダンサー系",
+      "note": "参考価格：4000万円",
+      "source": "https://crea-management.jp/shared-docs/ai-deliverables/dabista2-switch2-guide-20261001/mares.html",
+      "type": "公開資料照合",
+      "minor": "エタン",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "アビラ",
+      "sp": 4929,
+      "st": 4032,
+      "pw": 4414,
+      "sire": "",
+      "system": "ニアークティック系",
+      "note": "参考価格：8000万円",
+      "source": "https://crea-management.jp/shared-docs/ai-deliverables/dabista2-switch2-guide-20261001/mares.html",
+      "type": "公開資料照合",
+      "minor": "ダンチヒ",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "アブソルティミー",
+      "sp": 6999,
+      "st": 8554,
+      "pw": 6987,
+      "sire": "",
+      "system": "ニアークティック系",
+      "note": "参考価格：6.6億円",
+      "source": "https://crea-management.jp/shared-docs/ai-deliverables/dabista2-switch2-guide-20261001/mares.html",
+      "type": "公開資料照合",
+      "price": 66000,
+      "minor": "ダンチヒ",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "アメージングムーン",
+      "sp": 4650,
+      "st": 4650,
+      "pw": 4376,
+      "sire": "",
+      "system": "ネイティヴダンサー系",
+      "note": "参考価格：8800万円",
+      "source": "https://crea-management.jp/shared-docs/ai-deliverables/dabista2-switch2-guide-20261001/mares.html",
+      "type": "公開資料照合",
+      "minor": "ミスタープロスペクター",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "アメリ",
+      "sp": 4172,
+      "st": 4172,
+      "pw": 3927,
+      "sire": "",
+      "system": "ネイティヴダンサー系",
+      "note": "参考価格：5500万円",
+      "source": "https://crea-management.jp/shared-docs/ai-deliverables/dabista2-switch2-guide-20261001/mares.html",
+      "type": "公開資料照合",
+      "minor": "ミスタープロスペクター",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "アラビアンソング",
+      "sp": 5837,
+      "st": 5837,
+      "pw": 5750,
+      "sire": "",
+      "system": "系統確認中",
+      "note": "参考価格：2.4億円",
+      "source": "https://crea-management.jp/shared-docs/ai-deliverables/dabista2-switch2-guide-20261001/mares.html",
+      "type": "公開資料照合",
+      "price": 24000,
+      "minor": "ストームキャット",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "アルウィルダ",
+      "sp": 6264,
+      "st": 6264,
+      "pw": 5896,
+      "sire": "",
+      "system": "ニアークティック系",
+      "note": "参考価格：3億円",
+      "source": "https://crea-management.jp/shared-docs/ai-deliverables/dabista2-switch2-guide-20261001/mares.html",
+      "type": "公開資料照合",
+      "price": 30000,
+      "minor": "ニジンスキー",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "アロマティコ",
+      "sp": 5332,
+      "st": 6517,
+      "pw": 5576,
+      "sire": "",
+      "system": "ネイティヴダンサー系",
+      "note": "参考価格：2.4億円",
+      "source": "https://crea-management.jp/shared-docs/ai-deliverables/dabista2-switch2-guide-20261001/mares.html",
+      "type": "公開資料照合",
+      "price": 24000,
+      "minor": "ミスタープロスペクター",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "アンコンソールド",
+      "sp": 3772,
+      "st": 3772,
+      "pw": 3551,
+      "sire": "",
+      "system": "ネイティヴダンサー系",
+      "note": "参考価格：3500万円",
+      "source": "https://crea-management.jp/shared-docs/ai-deliverables/dabista2-switch2-guide-20261001/mares.html",
+      "type": "公開資料照合",
+      "minor": "ミスタープロスペクター",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "アンソニカ",
+      "sp": 3796,
+      "st": 3796,
+      "pw": 3572,
+      "sire": "",
+      "system": "ナスルーラ系",
+      "note": "参考価格：3600万円",
+      "source": "https://crea-management.jp/shared-docs/ai-deliverables/dabista2-switch2-guide-20261001/mares.html",
+      "type": "公開資料照合",
+      "minor": "ボールドルーラー",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "アンティフォナ",
+      "sp": 6696,
+      "st": 4464,
+      "pw": 5497,
+      "sire": "",
+      "system": "ネイティヴダンサー系",
+      "note": "参考価格：2億円",
+      "source": "https://crea-management.jp/shared-docs/ai-deliverables/dabista2-switch2-guide-20261001/mares.html",
+      "type": "公開資料照合",
+      "price": 20000,
+      "minor": "ミスタープロスペクター",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "アンドラステ",
+      "sp": 6152,
+      "st": 5033,
+      "pw": 5264,
+      "sire": "",
+      "system": "ロイヤルチャージャー系",
+      "note": "参考価格：1.9億円",
+      "source": "https://crea-management.jp/shared-docs/ai-deliverables/dabista2-switch2-guide-20261001/mares.html",
+      "type": "公開資料照合",
+      "minor": "サンデーサイレンス",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "アンナサライ",
+      "sp": 6157,
+      "st": 6157,
+      "pw": 5794,
+      "sire": "",
+      "system": "ネイティヴダンサー系",
+      "note": "参考価格：2.8億円",
+      "source": "https://crea-management.jp/shared-docs/ai-deliverables/dabista2-switch2-guide-20261001/mares.html",
+      "type": "公開資料照合",
+      "price": 28000,
+      "minor": "ミスタープロスペクター",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "スターレッツシスター",
+      "price": 65000,
+      "sp": 6870,
+      "st": 8397,
+      "pw": 7184,
+      "system": "ニアークティック系",
+      "note": "公開一覧参考価格：65,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "サドラーズウェルズ",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ゴーイングトゥベガス",
+      "price": 55000,
+      "sp": 7310,
+      "st": 7310,
+      "pw": 6880,
+      "system": "ニアークティック系",
+      "note": "公開一覧参考価格：55,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ストームキャット",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "サロミナ",
+      "price": 52000,
+      "sp": 7926,
+      "st": 6484,
+      "pw": 6781,
+      "system": "ニアークティック系",
+      "note": "公開一覧参考価格：52,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ニジンスキー",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ハルーワスウィート",
+      "price": 50000,
+      "sp": 6419,
+      "st": 7846,
+      "pw": 6713,
+      "system": "ネイティヴダンサー系",
+      "note": "公開一覧参考価格：50,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ミスタープロスペクター",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ベストインザワールド",
+      "price": 50000,
+      "sp": 6419,
+      "st": 7846,
+      "pw": 6713,
+      "system": "ニアークティック系",
+      "note": "公開一覧参考価格：50,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "サドラーズウェルズ",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ゲイルフォース",
+      "price": 48000,
+      "sp": 6446,
+      "st": 7878,
+      "pw": 6435,
+      "system": "スインフォード系",
+      "note": "公開一覧参考価格：48,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ブランドフォード",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "コンセントリック",
+      "price": 47000,
+      "sp": 6318,
+      "st": 7722,
+      "pw": 6607,
+      "system": "ニアークティック系",
+      "note": "公開一覧参考価格：47,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "サドラーズウェルズ",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ガウデアムス",
+      "price": 46000,
+      "sp": 8378,
+      "st": 5585,
+      "pw": 6571,
+      "system": "ネイティヴダンサー系",
+      "note": "公開一覧参考価格：46,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ミスタープロスペクター",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ステージマジック",
+      "price": 46000,
+      "sp": 6879,
+      "st": 6879,
+      "pw": 6776,
+      "system": "ニアークティック系",
+      "note": "公開一覧参考価格：46,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ヴァイスリージェント",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "メアリーズフォリーズ",
+      "price": 45000,
+      "sp": 7524,
+      "st": 6156,
+      "pw": 6738,
+      "system": "ロイヤルチャージャー系",
+      "note": "公開一覧参考価格：45,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ヘイロー",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "フェザード",
+      "price": 44000,
+      "sp": 6801,
+      "st": 6801,
+      "pw": 6700,
+      "system": "ナスルーラ系",
+      "note": "公開一覧参考価格：44,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "フォルティノ",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "パレスルーマー",
+      "price": 41000,
+      "sp": 6191,
+      "st": 7567,
+      "pw": 6181,
+      "system": "ニアークティック系",
+      "note": "公開一覧参考価格：41,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ヌレイエフ",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "コーステッド",
+      "price": 40000,
+      "sp": 6152,
+      "st": 7520,
+      "pw": 6142,
+      "system": "マッチェム系",
+      "note": "公開一覧参考価格：40,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "インテント",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "シルヴァースカヤ",
+      "price": 40000,
+      "sp": 7411,
+      "st": 6063,
+      "pw": 6341,
+      "system": "ロイヤルチャージャー系",
+      "note": "公開一覧参考価格：40,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ロベルト",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ヤンキーローズ",
+      "price": 39000,
+      "sp": 7363,
+      "st": 6024,
+      "pw": 6300,
+      "system": "ロイヤルチャージャー系",
+      "note": "公開一覧参考価格：39,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ロベルト",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ドバイマジェスティ",
+      "price": 38000,
+      "sp": 5985,
+      "st": 7315,
+      "pw": 6258,
+      "system": "ナスルーラ系",
+      "note": "公開一覧参考価格：38,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ボールドルーラー",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ラヴズオンリーミー",
+      "price": 37000,
+      "sp": 6605,
+      "st": 6605,
+      "pw": 6216,
+      "system": "ニアークティック系",
+      "note": "公開一覧参考価格：37,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ストームキャット",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "コントラディクト",
+      "price": 35000,
+      "sp": 6512,
+      "st": 6512,
+      "pw": 6129,
+      "system": "ネイティヴダンサー系",
+      "note": "公開一覧参考価格：35,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ミスタープロスペクター",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ジンジャーパンチ",
+      "price": 34000,
+      "sp": 6465,
+      "st": 6465,
+      "pw": 6084,
+      "system": "ニアークティック系",
+      "note": "公開一覧参考価格：34,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ヴァイスリージェント",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ウィルパワー",
+      "price": 33000,
+      "sp": 7700,
+      "st": 5133,
+      "pw": 6039,
+      "system": "ネイティヴダンサー系",
+      "note": "公開一覧参考価格：33,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ミスタープロスペクター",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ケイティーズハート",
+      "price": 32000,
+      "sp": 6367,
+      "st": 6367,
+      "pw": 5992,
+      "system": "ロイヤルチャージャー系",
+      "note": "公開一覧参考価格：32,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "サンデーサイレンス",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "シャトーブランシュ",
+      "price": 32000,
+      "sp": 6367,
+      "st": 6367,
+      "pw": 5992,
+      "system": "ニアークティック系",
+      "note": "公開一覧参考価格：32,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "リファール",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "プーカ",
+      "price": 32000,
+      "sp": 6273,
+      "st": 6273,
+      "pw": 6179,
+      "system": "ニアークティック系",
+      "note": "公開一覧参考価格：32,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ダンチヒ",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ブチコ",
+      "price": 32000,
+      "sp": 7528,
+      "st": 5018,
+      "pw": 6179,
+      "system": "ネイティヴダンサー系",
+      "note": "公開一覧参考価格：32,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ミスタープロスペクター",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "マンデラ",
+      "price": 32000,
+      "sp": 5093,
+      "st": 7640,
+      "pw": 5992,
+      "system": "ハンプトン系",
+      "note": "公開一覧参考価格：32,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ハンプトン",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "マイグッドネス",
+      "price": 31000,
+      "sp": 6948,
+      "st": 5684,
+      "pw": 5944,
+      "system": "ニアークティック系",
+      "note": "公開一覧参考価格：31,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ストームキャット",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "シンプリーグロリアス",
+      "price": 30000,
+      "sp": 6891,
+      "st": 5638,
+      "pw": 5896,
+      "system": "ニアークティック系",
+      "note": "公開一覧参考価格：30,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ダンチヒ",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ソーテルヌ",
+      "price": 30000,
+      "sp": 6891,
+      "st": 5638,
+      "pw": 5896,
+      "system": "ニアークティック系",
+      "note": "公開一覧参考価格：30,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ダンチヒ",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ナイトタイム",
+      "price": 30000,
+      "sp": 5721,
+      "st": 6992,
+      "pw": 5711,
+      "system": "ニアークティック系",
+      "note": "公開一覧参考価格：30,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "サドラーズウェルズ",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ファイアバーン",
+      "price": 30000,
+      "sp": 6891,
+      "st": 5638,
+      "pw": 5896,
+      "system": "ニアークティック系",
+      "note": "公開一覧参考価格：30,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ダンチヒ",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "フォエヴァーダーリング",
+      "price": 30000,
+      "sp": 6172,
+      "st": 6172,
+      "pw": 6080,
+      "system": "ナスルーラ系",
+      "note": "公開一覧参考価格：30,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ボールドルーラー",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ベガスショーガール",
+      "price": 30000,
+      "sp": 6891,
+      "st": 5638,
+      "pw": 5896,
+      "system": "セントサイモン系",
+      "note": "公開一覧参考価格：30,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "プリンスキロ",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ロカ",
+      "price": 30000,
+      "sp": 5638,
+      "st": 6891,
+      "pw": 5896,
+      "system": "ニアークティック系",
+      "note": "公開一覧参考価格：30,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ダンチヒ",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "グレースアドラー",
+      "price": 29000,
+      "sp": 6832,
+      "st": 5590,
+      "pw": 5846,
+      "system": "ネイティヴダンサー系",
+      "note": "公開一覧参考価格：29,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ミスタープロスペクター",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "セリエンホルデ",
+      "price": 29000,
+      "sp": 7453,
+      "st": 4969,
+      "pw": 5846,
+      "system": "ニアークティック系",
+      "note": "公開一覧参考価格：29,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "サドラーズウェルズ",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ウェイヴェルアベニュー",
+      "price": 28000,
+      "sp": 6772,
+      "st": 5541,
+      "pw": 5794,
+      "system": "ネイティヴダンサー系",
+      "note": "公開一覧参考価格：28,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ミスタープロスペクター",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ミスパスカリ",
+      "price": 28000,
+      "sp": 4925,
+      "st": 7388,
+      "pw": 5794,
+      "system": "ネイティヴダンサー系",
+      "note": "公開一覧参考価格：28,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ミスタープロスペクター",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "セルフレスリー",
+      "price": 27000,
+      "sp": 6711,
+      "st": 5491,
+      "pw": 5742,
+      "system": "ロイヤルチャージャー系",
+      "note": "公開一覧参考価格：27,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ヘイロー",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "エピックラヴ",
+      "price": 26000,
+      "sp": 6746,
+      "st": 5519,
+      "pw": 5510,
+      "system": "ニアークティック系",
+      "note": "公開一覧参考価格：26,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ダンチヒ",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "キングズハーレクイーン",
+      "price": 26000,
+      "sp": 6648,
+      "st": 5439,
+      "pw": 5688,
+      "system": "ニアークティック系",
+      "note": "公開一覧参考価格：26,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "サドラーズウェルズ",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ツルマルワンピース",
+      "price": 26000,
+      "sp": 5439,
+      "st": 6648,
+      "pw": 5688,
+      "system": "ネイティヴダンサー系",
+      "note": "公開一覧参考価格：26,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ミスタープロスペクター",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "キングズローズ",
+      "price": 25000,
+      "sp": 5985,
+      "st": 5985,
+      "pw": 5633,
+      "system": "ニアークティック系",
+      "note": "公開一覧参考価格：25,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ダンチヒ",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "スタセリタ",
+      "price": 25000,
+      "sp": 5466,
+      "st": 6680,
+      "pw": 5457,
+      "system": "スインフォード系",
+      "note": "公開一覧参考価格：25,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ブランドフォード",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ダンスアミーガ",
+      "price": 25000,
+      "sp": 5985,
+      "st": 5985,
+      "pw": 5633,
+      "system": "ナスルーラ系",
+      "note": "公開一覧参考価格：25,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "プリンスリーギフト",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ノンナベッラ",
+      "price": 25000,
+      "sp": 5897,
+      "st": 5897,
+      "pw": 5809,
+      "system": "ナスルーラ系",
+      "note": "公開一覧参考価格：25,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ボールドルーラー",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "バブラー",
+      "price": 25000,
+      "sp": 5897,
+      "st": 5897,
+      "pw": 5809,
+      "system": "ネイティヴダンサー系",
+      "note": "公開一覧参考価格：25,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ミスタープロスペクター",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "マッドアバウトユー",
+      "price": 25000,
+      "sp": 7076,
+      "st": 4717,
+      "pw": 5809,
+      "system": "ヘロド系",
+      "note": "公開一覧参考価格：25,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "クラリオン",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ライフフォーセール",
+      "price": 25000,
+      "sp": 6583,
+      "st": 5386,
+      "pw": 5633,
+      "system": "ナスルーラ系",
+      "note": "公開一覧参考価格：25,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "フォルティノ",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ラドラーダ",
+      "price": 25000,
+      "sp": 5985,
+      "st": 5985,
+      "pw": 5633,
+      "system": "ロイヤルチャージャー系",
+      "note": "公開一覧参考価格：25,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ロベルト",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "イースタンジョイ",
+      "price": 24000,
+      "sp": 6517,
+      "st": 5332,
+      "pw": 5576,
+      "system": "ネイティヴダンサー系",
+      "note": "公開一覧参考価格：24,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ミスタープロスペクター",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "コスモズバディー",
+      "price": 24000,
+      "sp": 6421,
+      "st": 5254,
+      "pw": 5750,
+      "system": "ニアークティック系",
+      "note": "公開一覧参考価格：24,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ダンチヒ",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "コルコバード",
+      "price": 24000,
+      "sp": 5332,
+      "st": 6517,
+      "pw": 5576,
+      "system": "ロイヤルチャージャー系",
+      "note": "公開一覧参考価格：24,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "サンデーサイレンス",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "コンテスティッド",
+      "price": 24000,
+      "sp": 5925,
+      "st": 5925,
+      "pw": 5576,
+      "system": "ニアークティック系",
+      "note": "公開一覧参考価格：24,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ヴァイスリージェント",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "シュガーハート",
+      "price": 24000,
+      "sp": 4740,
+      "st": 7110,
+      "pw": 5576,
+      "system": "ナスルーラ系",
+      "note": "公開一覧参考価格：24,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "プリンスリーギフト",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ティアナ",
+      "price": 24000,
+      "sp": 5925,
+      "st": 5925,
+      "pw": 5576,
+      "system": "ハンプトン系",
+      "note": "公開一覧参考価格：24,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "オーエンテューダー",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "フォークメロディー",
+      "price": 24000,
+      "sp": 6012,
+      "st": 6012,
+      "pw": 5402,
+      "system": "ネイティヴダンサー系",
+      "note": "公開一覧参考価格：24,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ミスタープロスペクター",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "フロールス",
+      "price": 24000,
+      "sp": 6421,
+      "st": 5254,
+      "pw": 5750,
+      "system": "ネイティヴダンサー系",
+      "note": "公開一覧参考価格：24,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ミスタープロスペクター",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "マラコスタムブラダ",
+      "price": 24000,
+      "sp": 6613,
+      "st": 5410,
+      "pw": 5402,
+      "system": "ニアークティック系",
+      "note": "公開一覧参考価格：24,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ダンチヒ",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "リッスン",
+      "price": 24000,
+      "sp": 5410,
+      "st": 6613,
+      "pw": 5402,
+      "system": "ニアークティック系",
+      "note": "公開一覧参考価格：24,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "サドラーズウェルズ",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "レディマドンナ",
+      "price": 24000,
+      "sp": 5837,
+      "st": 5837,
+      "pw": 5750,
+      "system": "ネイティヴダンサー系",
+      "note": "公開一覧参考価格：24,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ミスタープロスペクター",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "アンリーチャブル",
+      "price": 23000,
+      "sp": 6354,
+      "st": 5198,
+      "pw": 5690,
+      "system": "ニアークティック系",
+      "note": "公開一覧参考価格：23,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ストームキャット",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "サンブルエミューズ",
+      "price": 23000,
+      "sp": 6449,
+      "st": 5276,
+      "pw": 5517,
+      "system": "ロイヤルチャージャー系",
+      "note": "公開一覧参考価格：23,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "サンデーサイレンス",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "シーリングクラッシャー",
+      "price": 23000,
+      "sp": 7035,
+      "st": 4690,
+      "pw": 5517,
+      "system": "ロイヤルチャージャー系",
+      "note": "公開一覧参考価格：23,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ロベルト",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "シャスティエ",
+      "price": 23000,
+      "sp": 5354,
+      "st": 6543,
+      "pw": 5345,
+      "system": "ニアークティック系",
+      "note": "公開一覧参考価格：23,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ダンチヒ",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "バラダセール",
+      "price": 23000,
+      "sp": 5862,
+      "st": 5862,
+      "pw": 5517,
+      "system": "ナスルーラ系",
+      "note": "公開一覧参考価格：23,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "フォルティノ",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "カームウォーター",
+      "price": 22000,
+      "sp": 5798,
+      "st": 5798,
+      "pw": 5457,
+      "system": "ネイティヴダンサー系",
+      "note": "公開一覧参考価格：22,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ミスタープロスペクター",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "クロノロジスト",
+      "price": 22000,
+      "sp": 5798,
+      "st": 5798,
+      "pw": 5457,
+      "system": "ニアークティック系",
+      "note": "公開一覧参考価格：22,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ヴァイスリージェント",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "クワイエットジャイアント",
+      "price": 22000,
+      "sp": 6378,
+      "st": 5218,
+      "pw": 5457,
+      "system": "ニアークティック系",
+      "note": "公開一覧参考価格：22,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ストームキャット",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "タングリトナ",
+      "price": 22000,
+      "sp": 5798,
+      "st": 5798,
+      "pw": 5457,
+      "system": "ナスルーラ系",
+      "note": "公開一覧参考価格：22,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "フォルティノ",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ヒルダズパッション",
+      "price": 22000,
+      "sp": 6378,
+      "st": 5218,
+      "pw": 5457,
+      "system": "ネイティヴダンサー系",
+      "note": "公開一覧参考価格：22,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ミスタープロスペクター",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ミュージアムヒル",
+      "price": 22000,
+      "sp": 5798,
+      "st": 5798,
+      "pw": 5457,
+      "system": "ロイヤルチャージャー系",
+      "note": "公開一覧参考価格：22,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "サンデーサイレンス",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "メーヴェ",
+      "price": 22000,
+      "sp": 4638,
+      "st": 6958,
+      "pw": 5457,
+      "system": "ニアークティック系",
+      "note": "公開一覧参考価格：22,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "サドラーズウェルズ",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "リュヌドール",
+      "price": 22000,
+      "sp": 5218,
+      "st": 6378,
+      "pw": 5457,
+      "system": "ニアークティック系",
+      "note": "公開一覧参考価格：22,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ニジンスキー",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ルシュクル",
+      "price": 22000,
+      "sp": 6958,
+      "st": 4638,
+      "pw": 5457,
+      "system": "ナスルーラ系",
+      "note": "公開一覧参考価格：22,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "プリンスリーギフト",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "レッドエヴィ",
+      "price": 22000,
+      "sp": 5798,
+      "st": 5798,
+      "pw": 5457,
+      "system": "ロイヤルチャージャー系",
+      "note": "公開一覧参考価格：22,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ロベルト",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ヴァルトレルヒェ",
+      "price": 21000,
+      "sp": 5732,
+      "st": 5732,
+      "pw": 5395,
+      "system": "スインフォード系",
+      "note": "公開一覧参考価格：21,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ブランドフォード",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "エミュラス",
+      "price": 21000,
+      "sp": 5732,
+      "st": 5732,
+      "pw": 5395,
+      "system": "ニアークティック系",
+      "note": "公開一覧参考価格：21,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ダンチヒ",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "コミッショニング",
+      "price": 21000,
+      "sp": 6305,
+      "st": 5159,
+      "pw": 5395,
+      "system": "ニアークティック系",
+      "note": "公開一覧参考価格：21,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ダンチヒ",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "シャルロットロジーナ",
+      "price": 21000,
+      "sp": 6878,
+      "st": 4585,
+      "pw": 5395,
+      "system": "ニアークティック系",
+      "note": "公開一覧参考価格：21,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ダンチヒ",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "シューマ",
+      "price": 21000,
+      "sp": 6305,
+      "st": 5159,
+      "pw": 5395,
+      "system": "ネイティヴダンサー系",
+      "note": "公開一覧参考価格：21,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ミスタープロスペクター",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ダストアンドダイヤモンズ",
+      "price": 21000,
+      "sp": 5732,
+      "st": 5732,
+      "pw": 5395,
+      "system": "ナスルーラ系",
+      "note": "公開一覧参考価格：21,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ボールドルーラー",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "チリエージェ",
+      "price": 21000,
+      "sp": 6878,
+      "st": 4585,
+      "pw": 5395,
+      "system": "ナスルーラ系",
+      "note": "公開一覧参考価格：21,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "プリンスリーギフト",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ヘヴンリーラヴ",
+      "price": 21000,
+      "sp": 5648,
+      "st": 5648,
+      "pw": 5563,
+      "system": "ナスルーラ系",
+      "note": "公開一覧参考価格：21,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ボールドルーラー",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "マスクオフ",
+      "price": 21000,
+      "sp": 5732,
+      "st": 5732,
+      "pw": 5395,
+      "system": "ロイヤルチャージャー系",
+      "note": "公開一覧参考価格：21,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "サンデーサイレンス",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ミスエーニョ",
+      "price": 21000,
+      "sp": 6305,
+      "st": 5159,
+      "pw": 5395,
+      "system": "ナスルーラ系",
+      "note": "公開一覧参考価格：21,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ボールドルーラー",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ムーチョアンユージュアル",
+      "price": 21000,
+      "sp": 5732,
+      "st": 5732,
+      "pw": 5395,
+      "system": "ヒムヤー系",
+      "note": "公開一覧参考価格：21,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ヒムヤー",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ラルケット",
+      "price": 21000,
+      "sp": 6305,
+      "st": 5159,
+      "pw": 5395,
+      "system": "ニアークティック系",
+      "note": "公開一覧参考価格：21,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ノーザンダンサー",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "リリサイド",
+      "price": 21000,
+      "sp": 5732,
+      "st": 5732,
+      "pw": 5395,
+      "system": "ネイティヴダンサー系",
+      "note": "公開一覧参考価格：21,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ネイティヴダンサー",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "チェッキーノ",
+      "price": 20000,
+      "sp": 5663,
+      "st": 5663,
+      "pw": 5330,
+      "system": "ネイティヴダンサー系",
+      "note": "公開一覧参考価格：20,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ミスタープロスペクター",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "チェリーコレクト",
+      "price": 20000,
+      "sp": 5663,
+      "st": 5663,
+      "pw": 5330,
+      "system": "ニアークティック系",
+      "note": "公開一覧参考価格：20,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ノーザンダンサー",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "リアアントニア",
+      "price": 16000,
+      "sp": 5899,
+      "st": 4826,
+      "pw": 5047,
+      "system": "ネイティヴダンサー系",
+      "note": "公開一覧参考価格：16,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ミスタープロスペクター",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "エアルーティーン",
+      "price": 15000,
+      "sp": 5279,
+      "st": 5279,
+      "pw": 4969,
+      "system": "ニアークティック系",
+      "note": "公開一覧参考価格：15,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ダンチヒ",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "クラークスデール",
+      "price": 15000,
+      "sp": 5807,
+      "st": 4751,
+      "pw": 4969,
+      "system": "ロイヤルチャージャー系",
+      "note": "公開一覧参考価格：15,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "サンデーサイレンス",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "サザンスターズ",
+      "price": 15000,
+      "sp": 5279,
+      "st": 5279,
+      "pw": 4969,
+      "system": "ネイティヴダンサー系",
+      "note": "公開一覧参考価格：15,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ミスタープロスペクター",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "サマーハ",
+      "price": 15000,
+      "sp": 5279,
+      "st": 5279,
+      "pw": 4969,
+      "system": "ニアークティック系",
+      "note": "公開一覧参考価格：15,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "サドラーズウェルズ",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "シーブリーズライフ",
+      "price": 15000,
+      "sp": 5807,
+      "st": 4751,
+      "pw": 4969,
+      "system": "ロイヤルチャージャー系",
+      "note": "公開一覧参考価格：15,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "サンデーサイレンス",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "スカーレット",
+      "price": 15000,
+      "sp": 5279,
+      "st": 5279,
+      "pw": 4969,
+      "system": "ロイヤルチャージャー系",
+      "note": "公開一覧参考価格：15,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ロベルト",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "スキア",
+      "price": 15000,
+      "sp": 4751,
+      "st": 5807,
+      "pw": 4969,
+      "system": "ニアークティック系",
+      "note": "公開一覧参考価格：15,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "サドラーズウェルズ",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ハウオリ",
+      "price": 15000,
+      "sp": 5807,
+      "st": 4751,
+      "pw": 4969,
+      "system": "ネイティヴダンサー系",
+      "note": "公開一覧参考価格：15,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ミスタープロスペクター",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ムードインディゴ",
+      "price": 15000,
+      "sp": 4751,
+      "st": 5807,
+      "pw": 4969,
+      "system": "ロイヤルチャージャー系",
+      "note": "公開一覧参考価格：15,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "サンデーサイレンス",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ライラックスアンドレース",
+      "price": 15000,
+      "sp": 5279,
+      "st": 5279,
+      "pw": 4969,
+      "system": "ネイティヴダンサー系",
+      "note": "公開一覧参考価格：15,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ミスタープロスペクター",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "シンハリーズ",
+      "price": 14000,
+      "sp": 5711,
+      "st": 4673,
+      "pw": 4887,
+      "system": "ニアークティック系",
+      "note": "公開一覧参考価格：14,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "サドラーズウェルズ",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ターフドンナ",
+      "price": 14000,
+      "sp": 5795,
+      "st": 4742,
+      "pw": 4734,
+      "system": "ニアークティック系",
+      "note": "公開一覧参考価格：14,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "サドラーズウェルズ",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "トウカイライフ",
+      "price": 14000,
+      "sp": 5192,
+      "st": 5192,
+      "pw": 4887,
+      "system": "ヘロド系",
+      "note": "公開一覧参考価格：14,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "マイバブー",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ブリッツフィナーレ",
+      "price": 14000,
+      "sp": 4673,
+      "st": 5711,
+      "pw": 4887,
+      "system": "ロイヤルチャージャー系",
+      "note": "公開一覧参考価格：14,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "サンデーサイレンス",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ペンジャ",
+      "price": 14000,
+      "sp": 5192,
+      "st": 5192,
+      "pw": 4887,
+      "system": "ニアークティック系",
+      "note": "公開一覧参考価格：14,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "サドラーズウェルズ",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "リトルブック",
+      "price": 14000,
+      "sp": 5192,
+      "st": 5192,
+      "pw": 4887,
+      "system": "ニアークティック系",
+      "note": "公開一覧参考価格：14,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ダンチヒ",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "カルティカ",
+      "price": 13000,
+      "sp": 5100,
+      "st": 5100,
+      "pw": 4800,
+      "system": "ナスルーラ系",
+      "note": "公開一覧参考価格：13,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "レッドゴッド",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ジェンティルドンナ",
+      "price": 13000,
+      "sp": 4590,
+      "st": 5611,
+      "pw": 4800,
+      "system": "ロイヤルチャージャー系",
+      "note": "公開一覧参考価格：13,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "サンデーサイレンス",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ソーマジック",
+      "price": 13000,
+      "sp": 5611,
+      "st": 4590,
+      "pw": 4800,
+      "system": "ロイヤルチャージャー系",
+      "note": "公開一覧参考価格：13,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ロベルト",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "トシザコジーン",
+      "price": 13000,
+      "sp": 6121,
+      "st": 4080,
+      "pw": 4800,
+      "system": "ナスルーラ系",
+      "note": "公開一覧参考価格：13,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "フォルティノ",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "マアム",
+      "price": 13000,
+      "sp": 5025,
+      "st": 5025,
+      "pw": 4950,
+      "system": "マッチェム系",
+      "note": "公開一覧参考価格：13,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "インテント",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "リッチダンサー",
+      "price": 13000,
+      "sp": 4590,
+      "st": 5611,
+      "pw": 4800,
+      "system": "ネイティヴダンサー系",
+      "note": "公開一覧参考価格：13,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "エタン",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ロードクロサイト",
+      "price": 13000,
+      "sp": 5100,
+      "st": 5100,
+      "pw": 4800,
+      "system": "ネイティヴダンサー系",
+      "note": "公開一覧参考価格：13,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ミスタープロスペクター",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ロッテンマイヤー",
+      "price": 13000,
+      "sp": 5611,
+      "st": 4590,
+      "pw": 4800,
+      "system": "ニアークティック系",
+      "note": "公開一覧参考価格：13,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ヴァイスリージェント",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "アンナペレンナ",
+      "price": 12000,
+      "sp": 6004,
+      "st": 4003,
+      "pw": 4709,
+      "system": "ニアークティック系",
+      "note": "公開一覧参考価格：12,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ストームキャット",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "キラーグレイシス",
+      "price": 12000,
+      "sp": 5004,
+      "st": 5004,
+      "pw": 4709,
+      "system": "ナスルーラ系",
+      "note": "公開一覧参考価格：12,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "レッドゴッド",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "グランアレグリア",
+      "price": 12000,
+      "sp": 5504,
+      "st": 4503,
+      "pw": 4709,
+      "system": "ロイヤルチャージャー系",
+      "note": "公開一覧参考価格：12,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "サンデーサイレンス",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "グルヴェイグ",
+      "price": 12000,
+      "sp": 5004,
+      "st": 5004,
+      "pw": 4709,
+      "system": "ロイヤルチャージャー系",
+      "note": "公開一覧参考価格：12,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "サンデーサイレンス",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "クロノジェネシス",
+      "price": 12000,
+      "sp": 5004,
+      "st": 5004,
+      "pw": 4709,
+      "system": "ナスルーラ系",
+      "note": "公開一覧参考価格：12,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "レッドゴッド",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ジャポニカーラ",
+      "price": 12000,
+      "sp": 4503,
+      "st": 5504,
+      "pw": 4709,
+      "system": "ナスルーラ系",
+      "note": "公開一覧参考価格：12,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ゼダーン",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "スピニングワイルドキャット",
+      "price": 12000,
+      "sp": 6004,
+      "st": 4003,
+      "pw": 4709,
+      "system": "ニアークティック系",
+      "note": "公開一覧参考価格：12,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ダンチヒ",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ノーブルステラ",
+      "price": 12000,
+      "sp": 5504,
+      "st": 4503,
+      "pw": 4709,
+      "system": "スインフォード系",
+      "note": "公開一覧参考価格：12,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ブランドフォード",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "マシュマロ",
+      "price": 12000,
+      "sp": 4930,
+      "st": 4930,
+      "pw": 4856,
+      "system": "ニアークティック系",
+      "note": "公開一覧参考価格：12,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ヴァイスリージェント",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ラストグルーヴ",
+      "price": 12000,
+      "sp": 5504,
+      "st": 4503,
+      "pw": 4709,
+      "system": "ロイヤルチャージャー系",
+      "note": "公開一覧参考価格：12,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "サンデーサイレンス",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "レズー",
+      "price": 12000,
+      "sp": 6004,
+      "st": 4003,
+      "pw": 4709,
+      "system": "ニアークティック系",
+      "note": "公開一覧参考価格：12,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ノーザンダンサー",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "アンナモンダ",
+      "price": 11000,
+      "sp": 4901,
+      "st": 4901,
+      "pw": 4613,
+      "system": "スインフォード系",
+      "note": "公開一覧参考価格：11,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ブランドフォード",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ヴィヤダーナ",
+      "price": 11000,
+      "sp": 4901,
+      "st": 4901,
+      "pw": 4613,
+      "system": "ニアークティック系",
+      "note": "公開一覧参考価格：11,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ノーザンダンサー",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "カンビーナ",
+      "price": 11000,
+      "sp": 4411,
+      "st": 5391,
+      "pw": 4613,
+      "system": "ネイティヴダンサー系",
+      "note": "公開一覧参考価格：11,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ミスタープロスペクター",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "コスモチェーロ",
+      "price": 11000,
+      "sp": 4411,
+      "st": 5391,
+      "pw": 4613,
+      "system": "ネイティヴダンサー系",
+      "note": "公開一覧参考価格：11,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ミスタープロスペクター",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "サンドラⅡ",
+      "price": 11000,
+      "sp": 4901,
+      "st": 4901,
+      "pw": 4613,
+      "system": "ニアークティック系",
+      "note": "公開一覧参考価格：11,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ストームキャット",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ジョイネヴァーランド",
+      "price": 11000,
+      "sp": 4901,
+      "st": 4901,
+      "pw": 4613,
+      "system": "ネイティヴダンサー系",
+      "note": "公開一覧参考価格：11,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ミスタープロスペクター",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "セルキス",
+      "price": 11000,
+      "sp": 4901,
+      "st": 4901,
+      "pw": 4613,
+      "system": "スインフォード系",
+      "note": "公開一覧参考価格：11,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ブランドフォード",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ニシノムーンライト",
+      "price": 11000,
+      "sp": 5391,
+      "st": 4411,
+      "pw": 4613,
+      "system": "ネイティヴダンサー系",
+      "note": "公開一覧参考価格：11,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "エタン",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ブエナビスタ",
+      "price": 11000,
+      "sp": 5391,
+      "st": 4411,
+      "pw": 4613,
+      "system": "ロイヤルチャージャー系",
+      "note": "公開一覧参考価格：11,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "サンデーサイレンス",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "プラウドスペル",
+      "price": 11000,
+      "sp": 5312,
+      "st": 4346,
+      "pw": 4757,
+      "system": "ネイティヴダンサー系",
+      "note": "公開一覧参考価格：11,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ミスタープロスペクター",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "プリームス",
+      "price": 11000,
+      "sp": 5312,
+      "st": 4346,
+      "pw": 4757,
+      "system": "ロイヤルチャージャー系",
+      "note": "公開一覧参考価格：11,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "サンデーサイレンス",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ポルトフィーノ",
+      "price": 11000,
+      "sp": 5391,
+      "st": 4411,
+      "pw": 4613,
+      "system": "ニアークティック系",
+      "note": "公開一覧参考価格：11,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ヴァイスリージェント",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "マイジェン",
+      "price": 11000,
+      "sp": 5391,
+      "st": 4411,
+      "pw": 4613,
+      "system": "ネイティヴダンサー系",
+      "note": "公開一覧参考価格：11,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ミスタープロスペクター",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "マニーシャ",
+      "price": 11000,
+      "sp": 4901,
+      "st": 4901,
+      "pw": 4613,
+      "system": "ニアークティック系",
+      "note": "公開一覧参考価格：11,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ストームキャット",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "マルセリーナ",
+      "price": 11000,
+      "sp": 4411,
+      "st": 5391,
+      "pw": 4613,
+      "system": "ロイヤルチャージャー系",
+      "note": "公開一覧参考価格：11,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "サンデーサイレンス",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ムーンライトダンス",
+      "price": 11000,
+      "sp": 5391,
+      "st": 4411,
+      "pw": 4613,
+      "system": "ニアークティック系",
+      "note": "公開一覧参考価格：11,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ダンチヒ",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "モシーン",
+      "price": 11000,
+      "sp": 5391,
+      "st": 4411,
+      "pw": 4613,
+      "system": "ニアークティック系",
+      "note": "公開一覧参考価格：11,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ダンチヒ",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "モルガナイト",
+      "price": 11000,
+      "sp": 4901,
+      "st": 4901,
+      "pw": 4613,
+      "system": "ネイティヴダンサー系",
+      "note": "公開一覧参考価格：11,000万円",
+      "source": "https://al-gest.com/derbystallion2/derbystallion2-broodmare/",
+      "type": "公開一覧照合",
+      "minor": "ミスタープロスペクター",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "イーヴンソー",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "サドラーズウェルズ",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "イオス",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "レッドゴッド",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "インクルードベティ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ヒムヤー",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "インダクティ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "サンデーサイレンス",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "インディアマントゥアナ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ボールドルーラー",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ウィーミスフランキー",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ヘイロー",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ヴァッフレーシュ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "プリンスリーギフト",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ヴァレリカ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ロベルト",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ヴィーヴァブーケ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ミスタープロスペクター",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ヴェイパー",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "サドラーズウェルズ",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ヴェルザンディ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "サンデーサイレンス",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "エイシンサンバレー",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "テディ",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "エクセレンスⅡ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ダンチヒ",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "エーシンクールディ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ミスタープロスペクター",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "エルフィンパーク",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ロベルト",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "オーサムフェザー",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ヴァイスリージェント",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "カツラドライバー",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ハビタット",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "カネップリンセス",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "プリンスリーギフト",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "カラフルブラッサム",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "サンデーサイレンス",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "キティ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ミスタープロスペクター",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "キャットガール",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "サンデーサイレンス",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "キャプテンガール",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "テディ",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ギフトリスト",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ダンチヒ",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "クイーンピカソ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ダンチヒ",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "クーデグレイス",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "リファール",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ノームコア",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ダンチヒ",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ハープスター",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "サンデーサイレンス",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "レーヴディソール",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "サンデーサイレンス",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ロザリンド",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ロベルト",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "クロウキャニオン",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ヴァイスリージェント",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "コージーベイ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ストームキャット",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "コスモクリスタル",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ミスタープロスペクター",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "コンドコマンド",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "インテント",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ゴールデンドックエー",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ヌレイエフ",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "サウンドオブハート",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "サンデーサイレンス",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "サビアーレ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ボールドルーラー",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "サミター",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ダンチヒ",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "サンキュースマイル",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ロベルト",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "サンキューメアリールー",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ミスタープロスペクター",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "サンクイーンⅡ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ストームキャット",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "サンダーカップ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ミスタープロスペクター",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ザズー",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ボールドルーラー",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "シーオブラブ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "サンデーサイレンス",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "シークレットアセット",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ヴァイスリージェント",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "シークレットコード",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ミスタープロスペクター",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "シーフロント",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "レッドゴッド",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "シャムロッカー",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ノーザンダンサー",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ショウリュウムーン",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ミスタープロスペクター",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ショーコ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ハイペリオン",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "シリアスアティテュード",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ブレニム",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "シルヴァーグレイル",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "トムフール",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "シロインジャー",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ダンチヒ",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "シンプリーラヴィシング",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "フォルティノ",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ジャストルッキング",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ダンチヒ",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ジュモー",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ロベルト",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ジョイヴェリカ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ミスタープロスペクター",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ジョリージョコンド",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ノーザンダンサー",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ジンジャ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ミスタープロスペクター",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "スウィートリーズン",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ミスタープロスペクター",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "スーヴェニアギフト",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ミスタープロスペクター",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "スタイルリスティック",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ストームキャット",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "スターペスミツコ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "サドラーズウェルズ",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ステファニーズキトゥン",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "サドラーズウェルズ",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "スペシャルグルーヴ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "サンデーサイレンス",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "スポークスウーマン",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ダンチヒ",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ソフィアズソング",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ダンチヒ",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ソベラニア",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ブランドフォード",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ソムニア",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "サンデーサイレンス",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "タイタンクイーン",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "インテント",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "タイムフェアレディ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "マイバブー",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "タキオンメーカー",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ミスタープロスペクター",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ダイヤモンドディーバ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ダンチヒ",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ダークサファイア",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ロイヤルチャージャー",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ダフィーナ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ブレニム",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ティーズプロミス",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ヴァイスリージェント",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ティッカーコード",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ストームキャット",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "デアリングバード",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ミスタープロスペクター",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "デインドリーム",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ニジンスキー",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ディヴィナプレシオーサ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ボールドルーラー",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "トゥーピー",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ロベルト",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ドナブルーハ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ストームキャット",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ドバウィハイツ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ミスタープロスペクター",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ドントテルソフィア",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "レッドゴッド",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ナスケンアイリス",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ヴァイスリージェント",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ニューアイデア",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ダンチヒ",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ネヌファーアズール",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ミスタープロスペクター",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ハーランズルビー",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ストームキャット",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ハーロンベイ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ミスタープロスペクター",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "バイコースタル",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ミスタープロスペクター",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "バタラバ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "リボー",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "バルドウィン",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ダンテ",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "パーシステントリー",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ミスタープロスペクター",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "パスオブドリームズ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ストームキャット",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ヒアトゥウィン",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "レイズアネイティヴ",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ファイナルスコア",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ダンチヒ",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ファディラー",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ブランドフォード",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "フォーエヴァービー",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ミスタープロスペクター",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "フォーシンズ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ダンチヒ",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "フレンチノワール",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ヴァイスリージェント",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ブラーリーメモリー",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ストームキャット",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ブラックエンブレム",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ミスタープロスペクター",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ブルーミンバー",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ノーザンダンサー",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ブルーメンブラット",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "サンデーサイレンス",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ブロードストリート",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "サンデーサイレンス",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "プリティカリーナ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ミスタープロスペクター",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ヘアキティー",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ストームキャット",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ベガスナイト",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ミスタープロスペクター",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ベッラガンバ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ストームキャット",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ベッラレイア",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ファイントップ",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ベネンシアドール",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ミスタープロスペクター",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ベルベットローブ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ミスタープロスペクター",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ペケジェイ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "インテント",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ペンカナプリンセス",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ヌレイエフ",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ホエールキャプチャ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ヴァイスリージェント",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ホットチャチャ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ストームキャット",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ホロロジスト",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "インテント",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ホワイトアルバム",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ヴァイスリージェント",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ボロンナルワ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "レッドゴッド",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ポジティブマインド",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "レッドゴッド",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ポーレン",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ダンチヒ",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "マイネテレジア",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ヘイロー",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "マイユクール",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "レッドゴッド",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "マダムチェロキー",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "レッドゴッド",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "マハーバーラタ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "サンデーサイレンス",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "マーブルケーキ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ミスタープロスペクター",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "マルターズヒート",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ボールドルーラー",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "マンビア",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ミスタープロスペクター",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ミステリーエンジェル",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ダンチヒ",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ミュージカルロマンス",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ボールドルーラー",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ミリアグラシア",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ヒムヤー",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ミンナノアイドル",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ネイティヴダンサー",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ムーングロウ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ミスタープロスペクター",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ムーンライトベイ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "サドラーズウェルズ",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "メイショウツバクロ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ヴァイスリージェント",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "メジロスプレンダー",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ロベルト",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "モアザンセイクリッド",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ヘイロー",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "モンローブロンド",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "サンデーサイレンス",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ヤマノラヴ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ミスタープロスペクター",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ライジングクロス",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ダンチヒ",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ラスティングソング",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "サンデーサイレンス",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ラナンキュラス",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "サンデーサイレンス",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ララア",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ボールドルーラー",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ランズエッジ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "サンデーサイレンス",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "リップスポイズン",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "サドラーズウェルズ",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "リラックススマイル",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ミスタープロスペクター",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "リリーオブザヴァレー",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "サドラーズウェルズ",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "リリーノーブル",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ミスタープロスペクター",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "レイズアンドコール",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "プリンスリーギフト",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "レインデート",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ミスタープロスペクター",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "レジェンドトレイル",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ヴァイスリージェント",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "レッドエルザ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ミスタープロスペクター",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "レッドファンタジア",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ミスタープロスペクター",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "レディオブオペラ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "サドラーズウェルズ",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "レディランドルフ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "サドラーズウェルズ",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ロッシュノワール",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ヌレイエフ",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    },
+    {
+      "name": "ロベルタ",
+      "type": "系統コードのみ",
+      "source": "https://piyotakejapan.com/46717/",
+      "minor": "ロベルト",
+      "minorSource": "https://piyotakejapan.com/47052/ (2026-10-06)"
+    }
+  ]
+}

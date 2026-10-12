@@ -1,0 +1,3801 @@
+{
+  "version": "6.2",
+  "updated": "2026-10-12",
+  "source_policy": "JBIS 5代血統表で確認できた祖先名・世代のみ。v6.2で優先10頭へ拡張。因子効果は別データで確認できるまで付与しない。",
+  "records": [
+    {
+      "side": "s",
+      "name": "オルフェーヴル",
+      "source": "https://www.jbis.or.jp/horse/0001090360/pedigree/",
+      "ancestors": [
+        {
+          "name": "ステイゴールド",
+          "generation": 1,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001090360/pedigree/"
+        },
+        {
+          "name": "オリエンタルアート",
+          "generation": 1,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001090360/pedigree/"
+        },
+        {
+          "name": "サンデーサイレンス",
+          "generation": 2,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001090360/pedigree/"
+        },
+        {
+          "name": "ゴールデンサッシュ",
+          "generation": 2,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001090360/pedigree/"
+        },
+        {
+          "name": "メジロマックイーン",
+          "generation": 2,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001090360/pedigree/"
+        },
+        {
+          "name": "エレクトロアート",
+          "generation": 2,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001090360/pedigree/"
+        },
+        {
+          "name": "Halo",
+          "generation": 3,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001090360/pedigree/"
+        },
+        {
+          "name": "Wishing Well",
+          "generation": 3,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001090360/pedigree/"
+        },
+        {
+          "name": "デイクタス",
+          "generation": 3,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001090360/pedigree/"
+        },
+        {
+          "name": "ダイナサツシユ",
+          "generation": 3,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001090360/pedigree/"
+        },
+        {
+          "name": "メジロテイターン",
+          "generation": 3,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001090360/pedigree/"
+        },
+        {
+          "name": "メジロオーロラ",
+          "generation": 3,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001090360/pedigree/"
+        },
+        {
+          "name": "ノーザンテースト",
+          "generation": 3,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001090360/pedigree/"
+        },
+        {
+          "name": "グランマステイーヴンス",
+          "generation": 3,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001090360/pedigree/"
+        },
+        {
+          "name": "Hail to Reason",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001090360/pedigree/"
+        },
+        {
+          "name": "Cosmah",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001090360/pedigree/"
+        },
+        {
+          "name": "Understanding",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001090360/pedigree/"
+        },
+        {
+          "name": "Mountain Flower",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001090360/pedigree/"
+        },
+        {
+          "name": "Sanctus",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001090360/pedigree/"
+        },
+        {
+          "name": "Doronic",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001090360/pedigree/"
+        },
+        {
+          "name": "ノーザンテースト",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001090360/pedigree/"
+        },
+        {
+          "name": "ロイヤルサツシユ",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001090360/pedigree/"
+        },
+        {
+          "name": "メジロアサマ",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001090360/pedigree/"
+        },
+        {
+          "name": "シエリル",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001090360/pedigree/"
+        },
+        {
+          "name": "リマンド",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001090360/pedigree/"
+        },
+        {
+          "name": "メジロアイリス",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001090360/pedigree/"
+        },
+        {
+          "name": "Northern Dancer",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001090360/pedigree/"
+        },
+        {
+          "name": "Lady Victoria",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001090360/pedigree/"
+        },
+        {
+          "name": "Lt. Stevens",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001090360/pedigree/"
+        },
+        {
+          "name": "Dhow",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001090360/pedigree/"
+        },
+        {
+          "name": "Turn-to",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001090360/pedigree/"
+        },
+        {
+          "name": "Nothirdchance",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001090360/pedigree/"
+        },
+        {
+          "name": "Cosmic Bomb",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001090360/pedigree/"
+        },
+        {
+          "name": "Almahmoud",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001090360/pedigree/"
+        },
+        {
+          "name": "Promised Land",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001090360/pedigree/"
+        },
+        {
+          "name": "Pretty Ways",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001090360/pedigree/"
+        },
+        {
+          "name": "Montparnasse",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001090360/pedigree/"
+        },
+        {
+          "name": "Edelweiss",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001090360/pedigree/"
+        },
+        {
+          "name": "Fine Top",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001090360/pedigree/"
+        },
+        {
+          "name": "Sanelta",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001090360/pedigree/"
+        },
+        {
+          "name": "Worden",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001090360/pedigree/"
+        },
+        {
+          "name": "Dulzetta",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001090360/pedigree/"
+        },
+        {
+          "name": "Northern Dancer",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001090360/pedigree/"
+        },
+        {
+          "name": "Lady Victoria",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001090360/pedigree/"
+        },
+        {
+          "name": "Princely Gift",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001090360/pedigree/"
+        },
+        {
+          "name": "Sash of Honour",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001090360/pedigree/"
+        },
+        {
+          "name": "パーソロン",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001090360/pedigree/"
+        },
+        {
+          "name": "スヰート",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001090360/pedigree/"
+        },
+        {
+          "name": "スノツブ",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001090360/pedigree/"
+        },
+        {
+          "name": "Chanel",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001090360/pedigree/"
+        },
+        {
+          "name": "Alcide",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001090360/pedigree/"
+        },
+        {
+          "name": "Admonish",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001090360/pedigree/"
+        },
+        {
+          "name": "ヒンドスタン",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001090360/pedigree/"
+        },
+        {
+          "name": "アサマユリ",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001090360/pedigree/"
+        },
+        {
+          "name": "Nearctic",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001090360/pedigree/"
+        },
+        {
+          "name": "Natalma",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001090360/pedigree/"
+        },
+        {
+          "name": "Victoria Park",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001090360/pedigree/"
+        },
+        {
+          "name": "Lady Angela",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001090360/pedigree/"
+        },
+        {
+          "name": "Nantallah",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001090360/pedigree/"
+        },
+        {
+          "name": "Rough Shod",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001090360/pedigree/"
+        },
+        {
+          "name": "Bronze Babu",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001090360/pedigree/"
+        },
+        {
+          "name": "Coastal Trade",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001090360/pedigree/"
+        }
+      ],
+      "coverage_note": "JBIS 5代血統表から世代情報を登録。因子効果は未登録。"
+    },
+    {
+      "side": "s",
+      "name": "ノーザンテースト",
+      "source": "https://www.jbis.or.jp/horse/0000333544/pedigree/",
+      "ancestors": [
+        {
+          "name": "Northern Dancer",
+          "generation": 1,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000333544/pedigree/"
+        },
+        {
+          "name": "Lady Victoria",
+          "generation": 1,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000333544/pedigree/"
+        },
+        {
+          "name": "Nearctic",
+          "generation": 2,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000333544/pedigree/"
+        },
+        {
+          "name": "Natalma",
+          "generation": 2,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000333544/pedigree/"
+        },
+        {
+          "name": "Victoria Park",
+          "generation": 2,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000333544/pedigree/"
+        },
+        {
+          "name": "Lady Angela",
+          "generation": 2,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000333544/pedigree/"
+        },
+        {
+          "name": "Nearco",
+          "generation": 3,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000333544/pedigree/"
+        },
+        {
+          "name": "Lady Angela",
+          "generation": 3,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000333544/pedigree/"
+        },
+        {
+          "name": "Native Dancer",
+          "generation": 3,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000333544/pedigree/"
+        },
+        {
+          "name": "Almahmoud",
+          "generation": 3,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000333544/pedigree/"
+        },
+        {
+          "name": "Chop Chop",
+          "generation": 3,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000333544/pedigree/"
+        },
+        {
+          "name": "Victoriana",
+          "generation": 3,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000333544/pedigree/"
+        },
+        {
+          "name": "Hyperion",
+          "generation": 3,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000333544/pedigree/"
+        },
+        {
+          "name": "Sister Sarah",
+          "generation": 3,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000333544/pedigree/"
+        },
+        {
+          "name": "Pharos",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000333544/pedigree/"
+        },
+        {
+          "name": "Nogara",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000333544/pedigree/"
+        },
+        {
+          "name": "Hyperion",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000333544/pedigree/"
+        },
+        {
+          "name": "Sister Sarah",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000333544/pedigree/"
+        },
+        {
+          "name": "Polynesian",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000333544/pedigree/"
+        },
+        {
+          "name": "Geisha",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000333544/pedigree/"
+        },
+        {
+          "name": "Mahmoud",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000333544/pedigree/"
+        },
+        {
+          "name": "Arbitrator",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000333544/pedigree/"
+        },
+        {
+          "name": "Flares",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000333544/pedigree/"
+        },
+        {
+          "name": "Sceptical",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000333544/pedigree/"
+        },
+        {
+          "name": "Windfields",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000333544/pedigree/"
+        },
+        {
+          "name": "Iribelle",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000333544/pedigree/"
+        },
+        {
+          "name": "Gainsborough",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000333544/pedigree/"
+        },
+        {
+          "name": "Selene",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000333544/pedigree/"
+        },
+        {
+          "name": "Abbots Trace",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000333544/pedigree/"
+        },
+        {
+          "name": "Sarita",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000333544/pedigree/"
+        },
+        {
+          "name": "Phalaris",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000333544/pedigree/"
+        },
+        {
+          "name": "Scapa Flow",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000333544/pedigree/"
+        },
+        {
+          "name": "Havresac",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000333544/pedigree/"
+        },
+        {
+          "name": "Catnip",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000333544/pedigree/"
+        },
+        {
+          "name": "Gainsborough",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000333544/pedigree/"
+        },
+        {
+          "name": "Selene",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000333544/pedigree/"
+        },
+        {
+          "name": "Abbots Trace",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000333544/pedigree/"
+        },
+        {
+          "name": "Sarita",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000333544/pedigree/"
+        },
+        {
+          "name": "Unbreakable",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000333544/pedigree/"
+        },
+        {
+          "name": "Black Polly",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000333544/pedigree/"
+        },
+        {
+          "name": "Discovery",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000333544/pedigree/"
+        },
+        {
+          "name": "Miyako",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000333544/pedigree/"
+        },
+        {
+          "name": "Blenheim",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000333544/pedigree/"
+        },
+        {
+          "name": "Mah Mahal",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000333544/pedigree/"
+        },
+        {
+          "name": "Peace Chance",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000333544/pedigree/"
+        },
+        {
+          "name": "Mother Goose",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000333544/pedigree/"
+        },
+        {
+          "name": "Gallant Fox",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000333544/pedigree/"
+        },
+        {
+          "name": "Flambino",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000333544/pedigree/"
+        },
+        {
+          "name": "Buchan",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000333544/pedigree/"
+        },
+        {
+          "name": "Clodagh",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000333544/pedigree/"
+        },
+        {
+          "name": "Bunty Lawless",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000333544/pedigree/"
+        },
+        {
+          "name": "Nandi",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000333544/pedigree/"
+        },
+        {
+          "name": "Osiris",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000333544/pedigree/"
+        },
+        {
+          "name": "Belmona",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000333544/pedigree/"
+        },
+        {
+          "name": "Bayardo",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000333544/pedigree/"
+        },
+        {
+          "name": "Rosedrop",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000333544/pedigree/"
+        },
+        {
+          "name": "Chaucer",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000333544/pedigree/"
+        },
+        {
+          "name": "Serenissima",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000333544/pedigree/"
+        },
+        {
+          "name": "Tracery",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000333544/pedigree/"
+        },
+        {
+          "name": "Abbots Anne",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000333544/pedigree/"
+        },
+        {
+          "name": "Swynford",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000333544/pedigree/"
+        },
+        {
+          "name": "Molly Desmond",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000333544/pedigree/"
+        }
+      ],
+      "coverage_note": "JBIS 5代血統表から世代情報を登録。因子効果は未登録。"
+    },
+    {
+      "side": "m",
+      "name": "スタセリタ",
+      "source": "https://www.jbis.or.jp/horse/0001127387/pedigree/",
+      "ancestors": [
+        {
+          "name": "Monsun",
+          "generation": 1,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001127387/pedigree/"
+        },
+        {
+          "name": "Soignee",
+          "generation": 1,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001127387/pedigree/"
+        },
+        {
+          "name": "Konigsstuhl",
+          "generation": 2,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001127387/pedigree/"
+        },
+        {
+          "name": "Mosella",
+          "generation": 2,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001127387/pedigree/"
+        },
+        {
+          "name": "Dashing Blade",
+          "generation": 2,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001127387/pedigree/"
+        },
+        {
+          "name": "Suivez",
+          "generation": 2,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001127387/pedigree/"
+        },
+        {
+          "name": "Dschingis Khan",
+          "generation": 3,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001127387/pedigree/"
+        },
+        {
+          "name": "Konigskronung",
+          "generation": 3,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001127387/pedigree/"
+        },
+        {
+          "name": "Surumu",
+          "generation": 3,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001127387/pedigree/"
+        },
+        {
+          "name": "Monasia",
+          "generation": 3,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001127387/pedigree/"
+        },
+        {
+          "name": "Elegant Air",
+          "generation": 3,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001127387/pedigree/"
+        },
+        {
+          "name": "Sharp Castan",
+          "generation": 3,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001127387/pedigree/"
+        },
+        {
+          "name": "Fioravanti",
+          "generation": 3,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001127387/pedigree/"
+        },
+        {
+          "name": "Sea Symphony",
+          "generation": 3,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001127387/pedigree/"
+        },
+        {
+          "name": "Tamerlane",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001127387/pedigree/"
+        },
+        {
+          "name": "Donna Diana",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001127387/pedigree/"
+        },
+        {
+          "name": "Tiepoletto",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001127387/pedigree/"
+        },
+        {
+          "name": "Kronung",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001127387/pedigree/"
+        },
+        {
+          "name": "Literat",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001127387/pedigree/"
+        },
+        {
+          "name": "Surama",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001127387/pedigree/"
+        },
+        {
+          "name": "Authi",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001127387/pedigree/"
+        },
+        {
+          "name": "Monacensia",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001127387/pedigree/"
+        },
+        {
+          "name": "Shirley Heights",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001127387/pedigree/"
+        },
+        {
+          "name": "Elegant Tern",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001127387/pedigree/"
+        },
+        {
+          "name": "Sharpen Up",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001127387/pedigree/"
+        },
+        {
+          "name": "Sultry One",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001127387/pedigree/"
+        },
+        {
+          "name": "Northern Dancer",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001127387/pedigree/"
+        },
+        {
+          "name": "Pitasia",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001127387/pedigree/"
+        },
+        {
+          "name": "Faraway Son",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001127387/pedigree/"
+        },
+        {
+          "name": "Southern Seas",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001127387/pedigree/"
+        },
+        {
+          "name": "Persian Gulf",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001127387/pedigree/"
+        },
+        {
+          "name": "Eastern Empress",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001127387/pedigree/"
+        },
+        {
+          "name": "Neckar",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001127387/pedigree/"
+        },
+        {
+          "name": "Donatella",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001127387/pedigree/"
+        },
+        {
+          "name": "Tornado",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001127387/pedigree/"
+        },
+        {
+          "name": "Scarlet Skies",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001127387/pedigree/"
+        },
+        {
+          "name": "Olymp",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001127387/pedigree/"
+        },
+        {
+          "name": "Kaiserkrone",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001127387/pedigree/"
+        },
+        {
+          "name": "Birkhahn",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001127387/pedigree/"
+        },
+        {
+          "name": "Lis",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001127387/pedigree/"
+        },
+        {
+          "name": "Reliance",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001127387/pedigree/"
+        },
+        {
+          "name": "Suncourt",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001127387/pedigree/"
+        },
+        {
+          "name": "Aureole",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001127387/pedigree/"
+        },
+        {
+          "name": "Virtuous",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001127387/pedigree/"
+        },
+        {
+          "name": "Kaiseradler",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001127387/pedigree/"
+        },
+        {
+          "name": "Motette",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001127387/pedigree/"
+        },
+        {
+          "name": "Mill Reef",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001127387/pedigree/"
+        },
+        {
+          "name": "Hardiemma",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001127387/pedigree/"
+        },
+        {
+          "name": "Sea Bird",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001127387/pedigree/"
+        },
+        {
+          "name": "Prides Profile",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001127387/pedigree/"
+        },
+        {
+          "name": "エタン",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001127387/pedigree/"
+        },
+        {
+          "name": "Rocchetta",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001127387/pedigree/"
+        },
+        {
+          "name": "Tropique",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001127387/pedigree/"
+        },
+        {
+          "name": "Sweet Heart",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001127387/pedigree/"
+        },
+        {
+          "name": "Nearctic",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001127387/pedigree/"
+        },
+        {
+          "name": "Natalma",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001127387/pedigree/"
+        },
+        {
+          "name": "Pitskelly",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001127387/pedigree/"
+        },
+        {
+          "name": "Asian Princess",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001127387/pedigree/"
+        },
+        {
+          "name": "Ambiopoise",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001127387/pedigree/"
+        },
+        {
+          "name": "Locust Time",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001127387/pedigree/"
+        },
+        {
+          "name": "ジムフレンチ",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001127387/pedigree/"
+        },
+        {
+          "name": "Schonbrunn",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001127387/pedigree/"
+        }
+      ],
+      "coverage_note": "JBIS 5代血統表から世代情報を登録。因子効果は未登録。"
+    },
+    {
+      "side": "s",
+      "name": "クリエイターⅡ",
+      "source": "https://www.jbis.or.jp/horse/0001227898/pedigree/",
+      "ancestors": [
+        {
+          "name": "Tapit",
+          "generation": 1,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001227898/pedigree/"
+        },
+        {
+          "name": "Morena",
+          "generation": 1,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001227898/pedigree/"
+        },
+        {
+          "name": "Pulpit",
+          "generation": 2,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001227898/pedigree/"
+        },
+        {
+          "name": "Tap Your Heels",
+          "generation": 2,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001227898/pedigree/"
+        },
+        {
+          "name": "Privately Held",
+          "generation": 2,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001227898/pedigree/"
+        },
+        {
+          "name": "Charytin",
+          "generation": 2,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001227898/pedigree/"
+        },
+        {
+          "name": "A.P. Indy",
+          "generation": 3,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001227898/pedigree/"
+        },
+        {
+          "name": "Preach",
+          "generation": 3,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001227898/pedigree/"
+        },
+        {
+          "name": "Unbridled",
+          "generation": 3,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001227898/pedigree/"
+        },
+        {
+          "name": "Ruby Slippers",
+          "generation": 3,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001227898/pedigree/"
+        },
+        {
+          "name": "Private Account",
+          "generation": 3,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001227898/pedigree/"
+        },
+        {
+          "name": "Aviance",
+          "generation": 3,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001227898/pedigree/"
+        },
+        {
+          "name": "Summing",
+          "generation": 3,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001227898/pedigree/"
+        },
+        {
+          "name": "Crownit",
+          "generation": 3,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001227898/pedigree/"
+        },
+        {
+          "name": "Seattle Slew",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001227898/pedigree/"
+        },
+        {
+          "name": "Weekend Surprise",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001227898/pedigree/"
+        },
+        {
+          "name": "Mr. Prospector",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001227898/pedigree/"
+        },
+        {
+          "name": "Narrate",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001227898/pedigree/"
+        },
+        {
+          "name": "Fappiano",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001227898/pedigree/"
+        },
+        {
+          "name": "Gana Facil",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001227898/pedigree/"
+        },
+        {
+          "name": "Nijinsky",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001227898/pedigree/"
+        },
+        {
+          "name": "Moon Glitter",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001227898/pedigree/"
+        },
+        {
+          "name": "Damascus",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001227898/pedigree/"
+        },
+        {
+          "name": "Numbered Account",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001227898/pedigree/"
+        },
+        {
+          "name": "Northfields",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001227898/pedigree/"
+        },
+        {
+          "name": "Minnie Hauk",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001227898/pedigree/"
+        },
+        {
+          "name": "Verbatim",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001227898/pedigree/"
+        },
+        {
+          "name": "Sumatra",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001227898/pedigree/"
+        },
+        {
+          "name": "King of Macedon",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001227898/pedigree/"
+        },
+        {
+          "name": "Queens Up",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001227898/pedigree/"
+        },
+        {
+          "name": "Bold Reasoning",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001227898/pedigree/"
+        },
+        {
+          "name": "My Charmer",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001227898/pedigree/"
+        },
+        {
+          "name": "Secretariat",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001227898/pedigree/"
+        },
+        {
+          "name": "Lassie Dear",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001227898/pedigree/"
+        },
+        {
+          "name": "Raise a Native",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001227898/pedigree/"
+        },
+        {
+          "name": "Gold Digger",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001227898/pedigree/"
+        },
+        {
+          "name": "Honest Pleasure",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001227898/pedigree/"
+        },
+        {
+          "name": "State",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001227898/pedigree/"
+        },
+        {
+          "name": "Mr. Prospector",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001227898/pedigree/"
+        },
+        {
+          "name": "Killaloe",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001227898/pedigree/"
+        },
+        {
+          "name": "Le Fabuleux",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001227898/pedigree/"
+        },
+        {
+          "name": "Charedi",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001227898/pedigree/"
+        },
+        {
+          "name": "Northern Dancer",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001227898/pedigree/"
+        },
+        {
+          "name": "Flaming Page",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001227898/pedigree/"
+        },
+        {
+          "name": "In Reality",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001227898/pedigree/"
+        },
+        {
+          "name": "Foggy Note",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001227898/pedigree/"
+        },
+        {
+          "name": "Sword Dancer",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001227898/pedigree/"
+        },
+        {
+          "name": "Kerala",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001227898/pedigree/"
+        },
+        {
+          "name": "Buckpasser",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001227898/pedigree/"
+        },
+        {
+          "name": "Intriguing",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001227898/pedigree/"
+        },
+        {
+          "name": "Little Hut",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001227898/pedigree/"
+        },
+        {
+          "name": "Sir Ivor",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001227898/pedigree/"
+        },
+        {
+          "name": "Best in Show",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001227898/pedigree/"
+        },
+        {
+          "name": "Speak John",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001227898/pedigree/"
+        },
+        {
+          "name": "Well Kept",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001227898/pedigree/"
+        },
+        {
+          "name": "Groton",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001227898/pedigree/"
+        },
+        {
+          "name": "Sunda Strait",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001227898/pedigree/"
+        },
+        {
+          "name": "ダイアトム",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001227898/pedigree/"
+        },
+        {
+          "name": "Regal Fountain",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001227898/pedigree/"
+        },
+        {
+          "name": "Tudor Minstrel",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001227898/pedigree/"
+        },
+        {
+          "name": "A-Bee Ba-Bee",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001227898/pedigree/"
+        }
+      ],
+      "coverage_note": "JBIS 5代血統表から世代情報を登録。因子効果は未登録。"
+    },
+    {
+      "side": "s",
+      "name": "トニービン",
+      "source": "https://www.jbis.or.jp/horse/0000161740/pedigree/",
+      "ancestors": [
+        {
+          "name": "カンパラ",
+          "generation": 1,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000161740/pedigree/"
+        },
+        {
+          "name": "Kalamoun",
+          "generation": 2,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000161740/pedigree/"
+        },
+        {
+          "name": "State Pension",
+          "generation": 2,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000161740/pedigree/"
+        },
+        {
+          "name": "ゼダーン",
+          "generation": 3,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000161740/pedigree/"
+        },
+        {
+          "name": "Khairunissa",
+          "generation": 3,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000161740/pedigree/"
+        },
+        {
+          "name": "オンリーフオアライフ",
+          "generation": 3,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000161740/pedigree/"
+        },
+        {
+          "name": "Lorelei",
+          "generation": 3,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000161740/pedigree/"
+        },
+        {
+          "name": "Grey Sovereign",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000161740/pedigree/"
+        },
+        {
+          "name": "Vareta",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000161740/pedigree/"
+        },
+        {
+          "name": "Prince Bio",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000161740/pedigree/"
+        },
+        {
+          "name": "Palariva",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000161740/pedigree/"
+        },
+        {
+          "name": "Chanteur",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000161740/pedigree/"
+        },
+        {
+          "name": "Life Sentence",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000161740/pedigree/"
+        },
+        {
+          "name": "Prince Chevalier",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000161740/pedigree/"
+        },
+        {
+          "name": "Rock Goddess",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000161740/pedigree/"
+        },
+        {
+          "name": "Nasrullah",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000161740/pedigree/"
+        },
+        {
+          "name": "Kong",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000161740/pedigree/"
+        },
+        {
+          "name": "Vilmorin",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000161740/pedigree/"
+        },
+        {
+          "name": "Veronique",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000161740/pedigree/"
+        },
+        {
+          "name": "Prince Rose",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000161740/pedigree/"
+        },
+        {
+          "name": "Biologie",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000161740/pedigree/"
+        },
+        {
+          "name": "Palestine",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000161740/pedigree/"
+        },
+        {
+          "name": "Rivaz",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000161740/pedigree/"
+        },
+        {
+          "name": "Chateau Bouscaut",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000161740/pedigree/"
+        },
+        {
+          "name": "La Diva",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000161740/pedigree/"
+        },
+        {
+          "name": "Court Martial",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000161740/pedigree/"
+        },
+        {
+          "name": "Borobella",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000161740/pedigree/"
+        },
+        {
+          "name": "Prince Rose",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000161740/pedigree/"
+        },
+        {
+          "name": "Chevalerie",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000161740/pedigree/"
+        },
+        {
+          "name": "Hyperion",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000161740/pedigree/"
+        },
+        {
+          "name": "Rockfoil",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000161740/pedigree/"
+        },
+        {
+          "name": "Severn Bridge",
+          "generation": 1,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000161740/pedigree/"
+        },
+        {
+          "name": "Hornbeam",
+          "generation": 2,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000161740/pedigree/"
+        },
+        {
+          "name": "Priddy Fair",
+          "generation": 2,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000161740/pedigree/"
+        },
+        {
+          "name": "Hyperion",
+          "generation": 3,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000161740/pedigree/"
+        },
+        {
+          "name": "Thicket",
+          "generation": 3,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000161740/pedigree/"
+        },
+        {
+          "name": "Preciptic",
+          "generation": 3,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000161740/pedigree/"
+        },
+        {
+          "name": "Campanette",
+          "generation": 3,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000161740/pedigree/"
+        },
+        {
+          "name": "Gainsborough",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000161740/pedigree/"
+        },
+        {
+          "name": "Selene",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000161740/pedigree/"
+        },
+        {
+          "name": "Nasrullah",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000161740/pedigree/"
+        },
+        {
+          "name": "Thorn Wood",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000161740/pedigree/"
+        },
+        {
+          "name": "Precipitation",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000161740/pedigree/"
+        },
+        {
+          "name": "Artistic",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000161740/pedigree/"
+        },
+        {
+          "name": "Fair Trial",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000161740/pedigree/"
+        },
+        {
+          "name": "Calluna",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000161740/pedigree/"
+        },
+        {
+          "name": "Bayardo",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000161740/pedigree/"
+        },
+        {
+          "name": "Rosedrop",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000161740/pedigree/"
+        },
+        {
+          "name": "Chaucer",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000161740/pedigree/"
+        },
+        {
+          "name": "Serenissima",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000161740/pedigree/"
+        },
+        {
+          "name": "Nearco",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000161740/pedigree/"
+        },
+        {
+          "name": "Mumtaz Begum",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000161740/pedigree/"
+        },
+        {
+          "name": "Bois Roussel",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000161740/pedigree/"
+        },
+        {
+          "name": "Point Duty",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000161740/pedigree/"
+        },
+        {
+          "name": "Hurry On",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000161740/pedigree/"
+        },
+        {
+          "name": "Double Life",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000161740/pedigree/"
+        },
+        {
+          "name": "Gainsborough",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000161740/pedigree/"
+        },
+        {
+          "name": "Ishtar",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000161740/pedigree/"
+        },
+        {
+          "name": "Fairway",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000161740/pedigree/"
+        },
+        {
+          "name": "Lady Juror",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000161740/pedigree/"
+        },
+        {
+          "name": "Hyperion",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000161740/pedigree/"
+        },
+        {
+          "name": "Campanula",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000161740/pedigree/"
+        }
+      ],
+      "coverage_note": "JBIS 5代血統表から祖先名・世代を登録。因子効果は未登録。"
+    },
+    {
+      "side": "s",
+      "name": "ディスクリートキャット",
+      "source": "https://www.jbis.or.jp/horse/0000985381/pedigree/",
+      "ancestors": [
+        {
+          "name": "Forestry",
+          "generation": 1,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000985381/pedigree/"
+        },
+        {
+          "name": "Storm Cat",
+          "generation": 2,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000985381/pedigree/"
+        },
+        {
+          "name": "Shared Interest",
+          "generation": 2,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000985381/pedigree/"
+        },
+        {
+          "name": "Storm Bird",
+          "generation": 3,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000985381/pedigree/"
+        },
+        {
+          "name": "Terlingua",
+          "generation": 3,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000985381/pedigree/"
+        },
+        {
+          "name": "Pleasant Colony",
+          "generation": 3,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000985381/pedigree/"
+        },
+        {
+          "name": "Surgery",
+          "generation": 3,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000985381/pedigree/"
+        },
+        {
+          "name": "Northern Dancer",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000985381/pedigree/"
+        },
+        {
+          "name": "South Ocean",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000985381/pedigree/"
+        },
+        {
+          "name": "Secretariat",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000985381/pedigree/"
+        },
+        {
+          "name": "Crimson Saint",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000985381/pedigree/"
+        },
+        {
+          "name": "His Majesty",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000985381/pedigree/"
+        },
+        {
+          "name": "Sun Colony",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000985381/pedigree/"
+        },
+        {
+          "name": "Dr. Fager",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000985381/pedigree/"
+        },
+        {
+          "name": "Bold Sequence",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000985381/pedigree/"
+        },
+        {
+          "name": "Nearctic",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000985381/pedigree/"
+        },
+        {
+          "name": "Natalma",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000985381/pedigree/"
+        },
+        {
+          "name": "New Providence",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000985381/pedigree/"
+        },
+        {
+          "name": "Shining Sun",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000985381/pedigree/"
+        },
+        {
+          "name": "Bold Ruler",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000985381/pedigree/"
+        },
+        {
+          "name": "Somethingroyal",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000985381/pedigree/"
+        },
+        {
+          "name": "Crimson Satan",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000985381/pedigree/"
+        },
+        {
+          "name": "Bolero Rose",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000985381/pedigree/"
+        },
+        {
+          "name": "Ribot",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000985381/pedigree/"
+        },
+        {
+          "name": "Flower Bowl",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000985381/pedigree/"
+        },
+        {
+          "name": "Sunrise Flight",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000985381/pedigree/"
+        },
+        {
+          "name": "Colonia",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000985381/pedigree/"
+        },
+        {
+          "name": "Rough'n Tumble",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000985381/pedigree/"
+        },
+        {
+          "name": "Aspidistra",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000985381/pedigree/"
+        },
+        {
+          "name": "Bold Ruler",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000985381/pedigree/"
+        },
+        {
+          "name": "Sequence",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000985381/pedigree/"
+        },
+        {
+          "name": "Pretty Discreet",
+          "generation": 1,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000985381/pedigree/"
+        },
+        {
+          "name": "Private Account",
+          "generation": 2,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000985381/pedigree/"
+        },
+        {
+          "name": "Pretty Persuasive",
+          "generation": 2,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000985381/pedigree/"
+        },
+        {
+          "name": "Damascus",
+          "generation": 3,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000985381/pedigree/"
+        },
+        {
+          "name": "Numbered Account",
+          "generation": 3,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000985381/pedigree/"
+        },
+        {
+          "name": "Believe It",
+          "generation": 3,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000985381/pedigree/"
+        },
+        {
+          "name": "Bury the Hatchet",
+          "generation": 3,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000985381/pedigree/"
+        },
+        {
+          "name": "Sword Dancer",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000985381/pedigree/"
+        },
+        {
+          "name": "Kerala",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000985381/pedigree/"
+        },
+        {
+          "name": "Buckpasser",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000985381/pedigree/"
+        },
+        {
+          "name": "Intriguing",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000985381/pedigree/"
+        },
+        {
+          "name": "In Reality",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000985381/pedigree/"
+        },
+        {
+          "name": "Breakfast Bell",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000985381/pedigree/"
+        },
+        {
+          "name": "Tom Rolfe",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000985381/pedigree/"
+        },
+        {
+          "name": "Christmas Wishes",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000985381/pedigree/"
+        },
+        {
+          "name": "Sunglow",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000985381/pedigree/"
+        },
+        {
+          "name": "Highland Fling",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000985381/pedigree/"
+        },
+        {
+          "name": "My Babu",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000985381/pedigree/"
+        },
+        {
+          "name": "Blade of Time",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000985381/pedigree/"
+        },
+        {
+          "name": "Tom Fool",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000985381/pedigree/"
+        },
+        {
+          "name": "Busanda",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000985381/pedigree/"
+        },
+        {
+          "name": "Swaps",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000985381/pedigree/"
+        },
+        {
+          "name": "Glamour",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000985381/pedigree/"
+        },
+        {
+          "name": "Intentionally",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000985381/pedigree/"
+        },
+        {
+          "name": "My Dear Girl",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000985381/pedigree/"
+        },
+        {
+          "name": "Buckpasser",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000985381/pedigree/"
+        },
+        {
+          "name": "Reveille",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000985381/pedigree/"
+        },
+        {
+          "name": "Ribot",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000985381/pedigree/"
+        },
+        {
+          "name": "Pocahontas",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000985381/pedigree/"
+        },
+        {
+          "name": "Northern Dancer",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000985381/pedigree/"
+        },
+        {
+          "name": "Happy Mood",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0000985381/pedigree/"
+        }
+      ],
+      "coverage_note": "JBIS 5代血統表から祖先名・世代を登録。因子効果は未登録。"
+    },
+    {
+      "side": "s",
+      "name": "コントレイル",
+      "source": "https://www.jbis.or.jp/horse/0001237042/pedigree/",
+      "ancestors": [
+        {
+          "name": "ディープインパクト",
+          "generation": 1,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001237042/pedigree/"
+        },
+        {
+          "name": "サンデーサイレンス",
+          "generation": 2,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001237042/pedigree/"
+        },
+        {
+          "name": "ウインドインハーヘア",
+          "generation": 2,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001237042/pedigree/"
+        },
+        {
+          "name": "Halo",
+          "generation": 3,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001237042/pedigree/"
+        },
+        {
+          "name": "Wishing Well",
+          "generation": 3,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001237042/pedigree/"
+        },
+        {
+          "name": "Alzao",
+          "generation": 3,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001237042/pedigree/"
+        },
+        {
+          "name": "Burghclere",
+          "generation": 3,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001237042/pedigree/"
+        },
+        {
+          "name": "Hail to Reason",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001237042/pedigree/"
+        },
+        {
+          "name": "Cosmah",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001237042/pedigree/"
+        },
+        {
+          "name": "Understanding",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001237042/pedigree/"
+        },
+        {
+          "name": "Mountain Flower",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001237042/pedigree/"
+        },
+        {
+          "name": "Lyphard",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001237042/pedigree/"
+        },
+        {
+          "name": "Lady Rebecca",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001237042/pedigree/"
+        },
+        {
+          "name": "Busted",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001237042/pedigree/"
+        },
+        {
+          "name": "Highclere",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001237042/pedigree/"
+        },
+        {
+          "name": "Turn-to",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001237042/pedigree/"
+        },
+        {
+          "name": "Nothirdchance",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001237042/pedigree/"
+        },
+        {
+          "name": "Cosmic Bomb",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001237042/pedigree/"
+        },
+        {
+          "name": "Almahmoud",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001237042/pedigree/"
+        },
+        {
+          "name": "Promised Land",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001237042/pedigree/"
+        },
+        {
+          "name": "Pretty Ways",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001237042/pedigree/"
+        },
+        {
+          "name": "Montparnasse",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001237042/pedigree/"
+        },
+        {
+          "name": "Edelweiss",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001237042/pedigree/"
+        },
+        {
+          "name": "Northern Dancer",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001237042/pedigree/"
+        },
+        {
+          "name": "Goofed",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001237042/pedigree/"
+        },
+        {
+          "name": "Sir Ivor",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001237042/pedigree/"
+        },
+        {
+          "name": "Pocahontas",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001237042/pedigree/"
+        },
+        {
+          "name": "Crepello",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001237042/pedigree/"
+        },
+        {
+          "name": "Sans le Sou",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001237042/pedigree/"
+        },
+        {
+          "name": "Queen's Hussar",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001237042/pedigree/"
+        },
+        {
+          "name": "Highlight",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001237042/pedigree/"
+        },
+        {
+          "name": "ロードクロサイト",
+          "generation": 1,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001237042/pedigree/"
+        },
+        {
+          "name": "Unbridled's Song",
+          "generation": 2,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001237042/pedigree/"
+        },
+        {
+          "name": "Folklore",
+          "generation": 2,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001237042/pedigree/"
+        },
+        {
+          "name": "Unbridled",
+          "generation": 3,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001237042/pedigree/"
+        },
+        {
+          "name": "Trolley Song",
+          "generation": 3,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001237042/pedigree/"
+        },
+        {
+          "name": "Tiznow",
+          "generation": 3,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001237042/pedigree/"
+        },
+        {
+          "name": "Contrive",
+          "generation": 3,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001237042/pedigree/"
+        },
+        {
+          "name": "Fappiano",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001237042/pedigree/"
+        },
+        {
+          "name": "Gana Facil",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001237042/pedigree/"
+        },
+        {
+          "name": "Caro",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001237042/pedigree/"
+        },
+        {
+          "name": "Lucky Spell",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001237042/pedigree/"
+        },
+        {
+          "name": "Cee's Tizzy",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001237042/pedigree/"
+        },
+        {
+          "name": "Cee's Song",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001237042/pedigree/"
+        },
+        {
+          "name": "Storm Cat",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001237042/pedigree/"
+        },
+        {
+          "name": "Jeano",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001237042/pedigree/"
+        },
+        {
+          "name": "Mr. Prospector",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001237042/pedigree/"
+        },
+        {
+          "name": "Killaloe",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001237042/pedigree/"
+        },
+        {
+          "name": "Le Fabuleux",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001237042/pedigree/"
+        },
+        {
+          "name": "Charedi",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001237042/pedigree/"
+        },
+        {
+          "name": "フオルテイノ",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001237042/pedigree/"
+        },
+        {
+          "name": "Chambord",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001237042/pedigree/"
+        },
+        {
+          "name": "Lucky Mel",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001237042/pedigree/"
+        },
+        {
+          "name": "Incantation",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001237042/pedigree/"
+        },
+        {
+          "name": "Relaunch",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001237042/pedigree/"
+        },
+        {
+          "name": "テイズリー",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001237042/pedigree/"
+        },
+        {
+          "name": "Seattle Song",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001237042/pedigree/"
+        },
+        {
+          "name": "Lonely Dancer",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001237042/pedigree/"
+        },
+        {
+          "name": "Storm Bird",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001237042/pedigree/"
+        },
+        {
+          "name": "Terlingua",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001237042/pedigree/"
+        },
+        {
+          "name": "Fappiano",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001237042/pedigree/"
+        },
+        {
+          "name": "バジー",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001237042/pedigree/"
+        }
+      ],
+      "coverage_note": "JBIS 5代血統表から祖先名・世代を登録。因子効果は未登録。"
+    },
+    {
+      "side": "s",
+      "name": "ノヴェリスト",
+      "source": "https://www.jbis.or.jp/horse/0001178418/pedigree/",
+      "ancestors": [
+        {
+          "name": "Monsun",
+          "generation": 1,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001178418/pedigree/"
+        },
+        {
+          "name": "Konigsstuhl",
+          "generation": 2,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001178418/pedigree/"
+        },
+        {
+          "name": "Mosella",
+          "generation": 2,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001178418/pedigree/"
+        },
+        {
+          "name": "Dschingis Khan",
+          "generation": 3,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001178418/pedigree/"
+        },
+        {
+          "name": "Konigskronung",
+          "generation": 3,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001178418/pedigree/"
+        },
+        {
+          "name": "Surumu",
+          "generation": 3,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001178418/pedigree/"
+        },
+        {
+          "name": "Monasia",
+          "generation": 3,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001178418/pedigree/"
+        },
+        {
+          "name": "Tamerlane",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001178418/pedigree/"
+        },
+        {
+          "name": "Donna Diana",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001178418/pedigree/"
+        },
+        {
+          "name": "Tiepoletto",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001178418/pedigree/"
+        },
+        {
+          "name": "Kronung",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001178418/pedigree/"
+        },
+        {
+          "name": "Literat",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001178418/pedigree/"
+        },
+        {
+          "name": "Surama",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001178418/pedigree/"
+        },
+        {
+          "name": "Authi",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001178418/pedigree/"
+        },
+        {
+          "name": "Monacensia",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001178418/pedigree/"
+        },
+        {
+          "name": "Persian Gulf",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001178418/pedigree/"
+        },
+        {
+          "name": "Eastern Empress",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001178418/pedigree/"
+        },
+        {
+          "name": "Neckar",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001178418/pedigree/"
+        },
+        {
+          "name": "Donatella",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001178418/pedigree/"
+        },
+        {
+          "name": "Tornado",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001178418/pedigree/"
+        },
+        {
+          "name": "Scarlet Skies",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001178418/pedigree/"
+        },
+        {
+          "name": "Olymp",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001178418/pedigree/"
+        },
+        {
+          "name": "Kaiserkrone",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001178418/pedigree/"
+        },
+        {
+          "name": "Birkhahn",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001178418/pedigree/"
+        },
+        {
+          "name": "Lis",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001178418/pedigree/"
+        },
+        {
+          "name": "Reliance",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001178418/pedigree/"
+        },
+        {
+          "name": "Suncourt",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001178418/pedigree/"
+        },
+        {
+          "name": "Aureole",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001178418/pedigree/"
+        },
+        {
+          "name": "Virtuous",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001178418/pedigree/"
+        },
+        {
+          "name": "Kaiseradler",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001178418/pedigree/"
+        },
+        {
+          "name": "Motette",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001178418/pedigree/"
+        },
+        {
+          "name": "Night Lagoon",
+          "generation": 1,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001178418/pedigree/"
+        },
+        {
+          "name": "Lagunas",
+          "generation": 2,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001178418/pedigree/"
+        },
+        {
+          "name": "Nenuphar",
+          "generation": 2,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001178418/pedigree/"
+        },
+        {
+          "name": "イルドブルボン",
+          "generation": 3,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001178418/pedigree/"
+        },
+        {
+          "name": "Liranga",
+          "generation": 3,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001178418/pedigree/"
+        },
+        {
+          "name": "Night Shift",
+          "generation": 3,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001178418/pedigree/"
+        },
+        {
+          "name": "Narola",
+          "generation": 3,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001178418/pedigree/"
+        },
+        {
+          "name": "Nijinsky",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001178418/pedigree/"
+        },
+        {
+          "name": "Roseliere",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001178418/pedigree/"
+        },
+        {
+          "name": "Literat",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001178418/pedigree/"
+        },
+        {
+          "name": "Love In",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001178418/pedigree/"
+        },
+        {
+          "name": "Northern Dancer",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001178418/pedigree/"
+        },
+        {
+          "name": "Ciboulette",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001178418/pedigree/"
+        },
+        {
+          "name": "Nebos",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001178418/pedigree/"
+        },
+        {
+          "name": "Nubia",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001178418/pedigree/"
+        },
+        {
+          "name": "Northern Dancer",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001178418/pedigree/"
+        },
+        {
+          "name": "Flaming Page",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001178418/pedigree/"
+        },
+        {
+          "name": "Misti",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001178418/pedigree/"
+        },
+        {
+          "name": "Peace Rose",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001178418/pedigree/"
+        },
+        {
+          "name": "Birkhahn",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001178418/pedigree/"
+        },
+        {
+          "name": "Lis",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001178418/pedigree/"
+        },
+        {
+          "name": "Crepello",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001178418/pedigree/"
+        },
+        {
+          "name": "Tudor Love",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001178418/pedigree/"
+        },
+        {
+          "name": "Nearctic",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001178418/pedigree/"
+        },
+        {
+          "name": "Natalma",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001178418/pedigree/"
+        },
+        {
+          "name": "Chop Chop",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001178418/pedigree/"
+        },
+        {
+          "name": "Windy Answer",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001178418/pedigree/"
+        },
+        {
+          "name": "Caro",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001178418/pedigree/"
+        },
+        {
+          "name": "Nostrana",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001178418/pedigree/"
+        },
+        {
+          "name": "Tuttlinger",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001178418/pedigree/"
+        },
+        {
+          "name": "Night Music",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001178418/pedigree/"
+        }
+      ],
+      "coverage_note": "JBIS 5代血統表から祖先名・世代を登録。因子効果は未登録。"
+    },
+    {
+      "side": "s",
+      "name": "ゴールドシップ",
+      "source": "https://www.jbis.or.jp/horse/0001104811/pedigree/",
+      "ancestors": [
+        {
+          "name": "ステイゴールド",
+          "generation": 1,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001104811/pedigree/"
+        },
+        {
+          "name": "サンデーサイレンス",
+          "generation": 2,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001104811/pedigree/"
+        },
+        {
+          "name": "ゴールデンサッシュ",
+          "generation": 2,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001104811/pedigree/"
+        },
+        {
+          "name": "Halo",
+          "generation": 3,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001104811/pedigree/"
+        },
+        {
+          "name": "Wishing Well",
+          "generation": 3,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001104811/pedigree/"
+        },
+        {
+          "name": "デイクタス",
+          "generation": 3,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001104811/pedigree/"
+        },
+        {
+          "name": "ダイナサツシユ",
+          "generation": 3,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001104811/pedigree/"
+        },
+        {
+          "name": "Hail to Reason",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001104811/pedigree/"
+        },
+        {
+          "name": "Cosmah",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001104811/pedigree/"
+        },
+        {
+          "name": "Understanding",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001104811/pedigree/"
+        },
+        {
+          "name": "Mountain Flower",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001104811/pedigree/"
+        },
+        {
+          "name": "Sanctus",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001104811/pedigree/"
+        },
+        {
+          "name": "Doronic",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001104811/pedigree/"
+        },
+        {
+          "name": "ノーザンテースト",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001104811/pedigree/"
+        },
+        {
+          "name": "ロイヤルサツシユ",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001104811/pedigree/"
+        },
+        {
+          "name": "Turn-to",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001104811/pedigree/"
+        },
+        {
+          "name": "Nothirdchance",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001104811/pedigree/"
+        },
+        {
+          "name": "Cosmic Bomb",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001104811/pedigree/"
+        },
+        {
+          "name": "Almahmoud",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001104811/pedigree/"
+        },
+        {
+          "name": "Promised Land",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001104811/pedigree/"
+        },
+        {
+          "name": "Pretty Ways",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001104811/pedigree/"
+        },
+        {
+          "name": "Montparnasse",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001104811/pedigree/"
+        },
+        {
+          "name": "Edelweiss",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001104811/pedigree/"
+        },
+        {
+          "name": "Fine Top",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001104811/pedigree/"
+        },
+        {
+          "name": "Sanelta",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001104811/pedigree/"
+        },
+        {
+          "name": "Worden",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001104811/pedigree/"
+        },
+        {
+          "name": "Dulzetta",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001104811/pedigree/"
+        },
+        {
+          "name": "Northern Dancer",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001104811/pedigree/"
+        },
+        {
+          "name": "Lady Victoria",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001104811/pedigree/"
+        },
+        {
+          "name": "Princely Gift",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001104811/pedigree/"
+        },
+        {
+          "name": "Sash of Honour",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001104811/pedigree/"
+        },
+        {
+          "name": "ポイントフラッグ",
+          "generation": 1,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001104811/pedigree/"
+        },
+        {
+          "name": "メジロマックイーン",
+          "generation": 2,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001104811/pedigree/"
+        },
+        {
+          "name": "パストラリズム",
+          "generation": 2,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001104811/pedigree/"
+        },
+        {
+          "name": "メジロテイターン",
+          "generation": 3,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001104811/pedigree/"
+        },
+        {
+          "name": "メジロオーロラ",
+          "generation": 3,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001104811/pedigree/"
+        },
+        {
+          "name": "プルラリズム",
+          "generation": 3,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001104811/pedigree/"
+        },
+        {
+          "name": "トクノエイテイー",
+          "generation": 3,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001104811/pedigree/"
+        },
+        {
+          "name": "メジロアサマ",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001104811/pedigree/"
+        },
+        {
+          "name": "シエリル",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001104811/pedigree/"
+        },
+        {
+          "name": "リマンド",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001104811/pedigree/"
+        },
+        {
+          "name": "メジロアイリス",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001104811/pedigree/"
+        },
+        {
+          "name": "The Minstrel",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001104811/pedigree/"
+        },
+        {
+          "name": "Cambretta",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001104811/pedigree/"
+        },
+        {
+          "name": "トライバルチーフ",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001104811/pedigree/"
+        },
+        {
+          "name": "アイアンルビー",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001104811/pedigree/"
+        },
+        {
+          "name": "パーソロン",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001104811/pedigree/"
+        },
+        {
+          "name": "スヰート",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001104811/pedigree/"
+        },
+        {
+          "name": "スノツブ",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001104811/pedigree/"
+        },
+        {
+          "name": "Chanel",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001104811/pedigree/"
+        },
+        {
+          "name": "Alcide",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001104811/pedigree/"
+        },
+        {
+          "name": "Admonish",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001104811/pedigree/"
+        },
+        {
+          "name": "ヒンドスタン",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001104811/pedigree/"
+        },
+        {
+          "name": "アサマユリ",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001104811/pedigree/"
+        },
+        {
+          "name": "Northern Dancer",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001104811/pedigree/"
+        },
+        {
+          "name": "Fleur",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001104811/pedigree/"
+        },
+        {
+          "name": "Roberto",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001104811/pedigree/"
+        },
+        {
+          "name": "Cambrienne",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001104811/pedigree/"
+        },
+        {
+          "name": "Princely Gift",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001104811/pedigree/"
+        },
+        {
+          "name": "Mwanza",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001104811/pedigree/"
+        },
+        {
+          "name": "ラークスパー",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001104811/pedigree/"
+        },
+        {
+          "name": "風玲",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001104811/pedigree/"
+        }
+      ],
+      "coverage_note": "JBIS 5代血統表から祖先名・世代を登録。因子効果は未登録。"
+    },
+    {
+      "side": "s",
+      "name": "ダノンキングリー",
+      "source": "https://www.jbis.or.jp/horse/0001221761/pedigree/",
+      "ancestors": [
+        {
+          "name": "ディープインパクト",
+          "generation": 1,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001221761/pedigree/"
+        },
+        {
+          "name": "サンデーサイレンス",
+          "generation": 2,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001221761/pedigree/"
+        },
+        {
+          "name": "ウインドインハーヘア",
+          "generation": 2,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001221761/pedigree/"
+        },
+        {
+          "name": "Halo",
+          "generation": 3,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001221761/pedigree/"
+        },
+        {
+          "name": "Wishing Well",
+          "generation": 3,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001221761/pedigree/"
+        },
+        {
+          "name": "Alzao",
+          "generation": 3,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001221761/pedigree/"
+        },
+        {
+          "name": "Burghclere",
+          "generation": 3,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001221761/pedigree/"
+        },
+        {
+          "name": "Hail to Reason",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001221761/pedigree/"
+        },
+        {
+          "name": "Cosmah",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001221761/pedigree/"
+        },
+        {
+          "name": "Understanding",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001221761/pedigree/"
+        },
+        {
+          "name": "Mountain Flower",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001221761/pedigree/"
+        },
+        {
+          "name": "Lyphard",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001221761/pedigree/"
+        },
+        {
+          "name": "Lady Rebecca",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001221761/pedigree/"
+        },
+        {
+          "name": "Busted",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001221761/pedigree/"
+        },
+        {
+          "name": "Highclere",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001221761/pedigree/"
+        },
+        {
+          "name": "Turn-to",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001221761/pedigree/"
+        },
+        {
+          "name": "Nothirdchance",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001221761/pedigree/"
+        },
+        {
+          "name": "Cosmic Bomb",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001221761/pedigree/"
+        },
+        {
+          "name": "Almahmoud",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001221761/pedigree/"
+        },
+        {
+          "name": "Promised Land",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001221761/pedigree/"
+        },
+        {
+          "name": "Pretty Ways",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001221761/pedigree/"
+        },
+        {
+          "name": "Montparnasse",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001221761/pedigree/"
+        },
+        {
+          "name": "Edelweiss",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001221761/pedigree/"
+        },
+        {
+          "name": "Northern Dancer",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001221761/pedigree/"
+        },
+        {
+          "name": "Goofed",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001221761/pedigree/"
+        },
+        {
+          "name": "Sir Ivor",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001221761/pedigree/"
+        },
+        {
+          "name": "Pocahontas",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001221761/pedigree/"
+        },
+        {
+          "name": "Crepello",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001221761/pedigree/"
+        },
+        {
+          "name": "Sans le Sou",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001221761/pedigree/"
+        },
+        {
+          "name": "Queen's Hussar",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001221761/pedigree/"
+        },
+        {
+          "name": "Highlight",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001221761/pedigree/"
+        },
+        {
+          "name": "マイグッドネス",
+          "generation": 1,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001221761/pedigree/"
+        },
+        {
+          "name": "Storm Cat",
+          "generation": 2,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001221761/pedigree/"
+        },
+        {
+          "name": "Caressing",
+          "generation": 2,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001221761/pedigree/"
+        },
+        {
+          "name": "Storm Bird",
+          "generation": 3,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001221761/pedigree/"
+        },
+        {
+          "name": "Terlingua",
+          "generation": 3,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001221761/pedigree/"
+        },
+        {
+          "name": "Honour and Glory",
+          "generation": 3,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001221761/pedigree/"
+        },
+        {
+          "name": "Lovin Touch",
+          "generation": 3,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001221761/pedigree/"
+        },
+        {
+          "name": "Northern Dancer",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001221761/pedigree/"
+        },
+        {
+          "name": "South Ocean",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001221761/pedigree/"
+        },
+        {
+          "name": "Secretariat",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001221761/pedigree/"
+        },
+        {
+          "name": "Crimson Saint",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001221761/pedigree/"
+        },
+        {
+          "name": "Relaunch",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001221761/pedigree/"
+        },
+        {
+          "name": "Fair to All",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001221761/pedigree/"
+        },
+        {
+          "name": "Majestic Prince",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001221761/pedigree/"
+        },
+        {
+          "name": "Forest Princess",
+          "generation": 4,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001221761/pedigree/"
+        },
+        {
+          "name": "Nearctic",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001221761/pedigree/"
+        },
+        {
+          "name": "Natalma",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001221761/pedigree/"
+        },
+        {
+          "name": "New Providence",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001221761/pedigree/"
+        },
+        {
+          "name": "Shining Sun",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001221761/pedigree/"
+        },
+        {
+          "name": "Bold Ruler",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001221761/pedigree/"
+        },
+        {
+          "name": "Somethingroyal",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001221761/pedigree/"
+        },
+        {
+          "name": "Crimson Satan",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001221761/pedigree/"
+        },
+        {
+          "name": "Bolero Rose",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001221761/pedigree/"
+        },
+        {
+          "name": "In Reality",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001221761/pedigree/"
+        },
+        {
+          "name": "Foggy Note",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001221761/pedigree/"
+        },
+        {
+          "name": "Al Nasr",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001221761/pedigree/"
+        },
+        {
+          "name": "Gonfalon",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001221761/pedigree/"
+        },
+        {
+          "name": "Raise a Native",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001221761/pedigree/"
+        },
+        {
+          "name": "Gay Hostess",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001221761/pedigree/"
+        },
+        {
+          "name": "Fleet Nasrullah",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001221761/pedigree/"
+        },
+        {
+          "name": "Queen Hostess",
+          "generation": 5,
+          "effects": [],
+          "source": "https://www.jbis.or.jp/horse/0001221761/pedigree/"
+        }
+      ],
+      "coverage_note": "JBIS 5代血統表から祖先名・世代を登録。因子効果は未登録。"
+    }
+  ]
+}

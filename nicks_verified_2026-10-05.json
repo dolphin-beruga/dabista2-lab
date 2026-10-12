@@ -1,0 +1,559 @@
+{
+  "version": "2026-10-05",
+  "count": 69,
+  "directional": true,
+  "rules": [
+    {
+      "father": "ゼダーン",
+      "mother": "サドラーズウェルズ",
+      "stars": 1,
+      "source": "https://piyotakejapan.com/46972/",
+      "verified": "実機確認済み",
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "father": "ゼダーン",
+      "mother": "ニジンスキー",
+      "stars": 2,
+      "source": "https://piyotakejapan.com/46972/",
+      "verified": "実機確認済み",
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "father": "プリンスリーギフト",
+      "mother": "サドラーズウェルズ",
+      "stars": 1,
+      "source": "https://piyotakejapan.com/46972/",
+      "verified": "実機確認済み",
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "father": "プリンスリーギフト",
+      "mother": "ニジンスキー",
+      "stars": 2,
+      "source": "https://piyotakejapan.com/46972/",
+      "verified": "実機確認済み",
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "father": "プリンスリーギフト",
+      "mother": "ハンプトン",
+      "stars": 2,
+      "source": "https://piyotakejapan.com/46972/",
+      "verified": "実機確認済み",
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "father": "ボールドルーラー",
+      "mother": "サンデーサイレンス",
+      "stars": 1,
+      "source": "https://piyotakejapan.com/46972/",
+      "verified": "実機確認済み",
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "father": "ボールドルーラー",
+      "mother": "ダンチヒ",
+      "stars": 1,
+      "source": "https://piyotakejapan.com/46972/",
+      "verified": "実機確認済み",
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "father": "ボールドルーラー",
+      "mother": "ヌレイエフ",
+      "stars": 1,
+      "source": "https://piyotakejapan.com/46972/",
+      "verified": "実機確認済み",
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "father": "ボールドルーラー",
+      "mother": "テディ",
+      "stars": 1,
+      "source": "https://piyotakejapan.com/46972/",
+      "verified": "実機確認済み",
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "father": "ボールドルーラー",
+      "mother": "リボー",
+      "stars": 2,
+      "source": "https://piyotakejapan.com/46972/",
+      "verified": "実機確認済み",
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "father": "レッドゴッド",
+      "mother": "ヴァイスリージェント",
+      "stars": 2,
+      "source": "https://piyotakejapan.com/46972/",
+      "verified": "実機確認済み",
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "father": "レッドゴッド",
+      "mother": "ブランドフォード",
+      "stars": 2,
+      "source": "https://piyotakejapan.com/46972/",
+      "verified": "実機確認済み",
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "father": "レッドゴッド",
+      "mother": "リボー",
+      "stars": 2,
+      "source": "https://piyotakejapan.com/46972/",
+      "verified": "実機確認済み",
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "father": "ロベルト",
+      "mother": "フォルティノ",
+      "stars": 1,
+      "source": "https://piyotakejapan.com/46972/",
+      "verified": "実機確認済み",
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "father": "ロベルト",
+      "mother": "ボールドルーラー",
+      "stars": 1,
+      "source": "https://piyotakejapan.com/46972/",
+      "verified": "実機確認済み",
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "father": "ロベルト",
+      "mother": "レッドゴッド",
+      "stars": 2,
+      "source": "https://piyotakejapan.com/46972/",
+      "verified": "実機確認済み",
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "father": "ロベルト",
+      "mother": "サンデーサイレンス",
+      "stars": 1,
+      "source": "https://piyotakejapan.com/46972/",
+      "verified": "実機確認済み",
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "father": "ロベルト",
+      "mother": "サドラーズウェルズ",
+      "stars": 1,
+      "source": "https://piyotakejapan.com/46972/",
+      "verified": "実機確認済み",
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "father": "ロベルト",
+      "mother": "リファール",
+      "stars": 1,
+      "source": "https://piyotakejapan.com/46972/",
+      "verified": "実機確認済み",
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "father": "ロベルト",
+      "mother": "ニジンスキー",
+      "stars": 2,
+      "source": "https://piyotakejapan.com/46972/",
+      "verified": "実機確認済み",
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "father": "ロベルト",
+      "mother": "ミスタープロスペクター",
+      "stars": 1,
+      "source": "https://piyotakejapan.com/46972/",
+      "verified": "実機確認済み",
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "father": "サンデーサイレンス",
+      "mother": "ゼダーン",
+      "stars": 2,
+      "source": "https://piyotakejapan.com/46972/",
+      "verified": "実機確認済み",
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "father": "サンデーサイレンス",
+      "mother": "ボールドルーラー",
+      "stars": 3,
+      "source": "https://piyotakejapan.com/46972/",
+      "verified": "実機確認済み",
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "father": "サンデーサイレンス",
+      "mother": "レッドゴッド",
+      "stars": 1,
+      "source": "https://piyotakejapan.com/46972/",
+      "verified": "実機確認済み",
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "father": "サンデーサイレンス",
+      "mother": "ロベルト",
+      "stars": 2,
+      "source": "https://piyotakejapan.com/46972/",
+      "verified": "実機確認済み",
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "father": "サンデーサイレンス",
+      "mother": "ストームキャット",
+      "stars": 3,
+      "source": "https://piyotakejapan.com/46972/",
+      "verified": "実機確認済み",
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "father": "サンデーサイレンス",
+      "mother": "ダンチヒ",
+      "stars": 1,
+      "source": "https://piyotakejapan.com/46972/",
+      "verified": "実機確認済み",
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "father": "サンデーサイレンス",
+      "mother": "リファール",
+      "stars": 2,
+      "source": "https://piyotakejapan.com/46972/",
+      "verified": "実機確認済み",
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "father": "サンデーサイレンス",
+      "mother": "ヴァイスリージェント",
+      "stars": 1,
+      "source": "https://piyotakejapan.com/46972/",
+      "verified": "実機確認済み",
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "father": "サンデーサイレンス",
+      "mother": "ニジンスキー",
+      "stars": 2,
+      "source": "https://piyotakejapan.com/46972/",
+      "verified": "実機確認済み",
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "father": "サンデーサイレンス",
+      "mother": "ハンプトン",
+      "stars": 2,
+      "source": "https://piyotakejapan.com/46972/",
+      "verified": "実機確認済み",
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "father": "サンデーサイレンス",
+      "mother": "マイバブー",
+      "stars": 3,
+      "source": "https://piyotakejapan.com/46972/",
+      "verified": "実機確認済み",
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "father": "ダンチヒ",
+      "mother": "フォルティノ",
+      "stars": 1,
+      "source": "https://piyotakejapan.com/46972/",
+      "verified": "実機確認済み",
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "father": "ダンチヒ",
+      "mother": "プリンスリーギフト",
+      "stars": 1,
+      "source": "https://piyotakejapan.com/46972/",
+      "verified": "実機確認済み",
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "father": "ダンチヒ",
+      "mother": "ボールドルーラー",
+      "stars": 1,
+      "source": "https://piyotakejapan.com/46972/",
+      "verified": "実機確認済み",
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "father": "ダンチヒ",
+      "mother": "ミスタープロスペクター",
+      "stars": 1,
+      "source": "https://piyotakejapan.com/46972/",
+      "verified": "実機確認済み",
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "father": "ダンチヒ",
+      "mother": "テディ",
+      "stars": 1,
+      "source": "https://piyotakejapan.com/46972/",
+      "verified": "実機確認済み",
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "father": "ダンチヒ",
+      "mother": "リボー",
+      "stars": 2,
+      "source": "https://piyotakejapan.com/46972/",
+      "verified": "実機確認済み",
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "father": "サドラーズウェルズ",
+      "mother": "フォルティノ",
+      "stars": 1,
+      "source": "https://piyotakejapan.com/46972/",
+      "verified": "実機確認済み",
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "father": "サドラーズウェルズ",
+      "mother": "プリンスリーギフト",
+      "stars": 1,
+      "source": "https://piyotakejapan.com/46972/",
+      "verified": "実機確認済み",
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "father": "サドラーズウェルズ",
+      "mother": "レッドゴッド",
+      "stars": 1,
+      "source": "https://piyotakejapan.com/46972/",
+      "verified": "実機確認済み",
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "father": "サドラーズウェルズ",
+      "mother": "ダンテ",
+      "stars": 2,
+      "source": "https://piyotakejapan.com/46972/",
+      "verified": "実機確認済み",
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "father": "サドラーズウェルズ",
+      "mother": "ストームキャット",
+      "stars": 1,
+      "source": "https://piyotakejapan.com/46972/",
+      "verified": "実機確認済み",
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "father": "サドラーズウェルズ",
+      "mother": "テディ",
+      "stars": 2,
+      "source": "https://piyotakejapan.com/46972/",
+      "verified": "実機確認済み",
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "father": "サドラーズウェルズ",
+      "mother": "リボー",
+      "stars": 2,
+      "source": "https://piyotakejapan.com/46972/",
+      "verified": "実機確認済み",
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "father": "リファール",
+      "mother": "フォルティノ",
+      "stars": 1,
+      "source": "https://piyotakejapan.com/46972/",
+      "verified": "実機確認済み",
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "father": "リファール",
+      "mother": "プリンスリーギフト",
+      "stars": 1,
+      "source": "https://piyotakejapan.com/46972/",
+      "verified": "実機確認済み",
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "father": "リファール",
+      "mother": "ボールドルーラー",
+      "stars": 1,
+      "source": "https://piyotakejapan.com/46972/",
+      "verified": "実機確認済み",
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "father": "リファール",
+      "mother": "テディ",
+      "stars": 2,
+      "source": "https://piyotakejapan.com/46972/",
+      "verified": "実機確認済み",
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "father": "リファール",
+      "mother": "リボー",
+      "stars": 2,
+      "source": "https://piyotakejapan.com/46972/",
+      "verified": "実機確認済み",
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "father": "ヴァイスリージェント",
+      "mother": "フォルティノ",
+      "stars": 1,
+      "source": "https://piyotakejapan.com/46972/",
+      "verified": "実機確認済み",
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "father": "ヴァイスリージェント",
+      "mother": "プリンスリーギフト",
+      "stars": 1,
+      "source": "https://piyotakejapan.com/46972/",
+      "verified": "実機確認済み",
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "father": "ヴァイスリージェント",
+      "mother": "ミスタープロスペクター",
+      "stars": 1,
+      "source": "https://piyotakejapan.com/46972/",
+      "verified": "実機確認済み",
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "father": "ヴァイスリージェント",
+      "mother": "テディ",
+      "stars": 2,
+      "source": "https://piyotakejapan.com/46972/",
+      "verified": "実機確認済み",
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "father": "ヴァイスリージェント",
+      "mother": "リボー",
+      "stars": 2,
+      "source": "https://piyotakejapan.com/46972/",
+      "verified": "実機確認済み",
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "father": "ミスタープロスペクター",
+      "mother": "フォルティノ",
+      "stars": 2,
+      "source": "https://piyotakejapan.com/46972/",
+      "verified": "実機確認済み",
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "father": "ミスタープロスペクター",
+      "mother": "ヘイロー",
+      "stars": 1,
+      "source": "https://piyotakejapan.com/46972/",
+      "verified": "実機確認済み",
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "father": "ミスタープロスペクター",
+      "mother": "ダンチヒ",
+      "stars": 1,
+      "source": "https://piyotakejapan.com/46972/",
+      "verified": "実機確認済み",
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "father": "ミスタープロスペクター",
+      "mother": "サドラーズウェルズ",
+      "stars": 2,
+      "source": "https://piyotakejapan.com/46972/",
+      "verified": "実機確認済み",
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "father": "ミスタープロスペクター",
+      "mother": "ヌレイエフ",
+      "stars": 1,
+      "source": "https://piyotakejapan.com/46972/",
+      "verified": "実機確認済み",
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "father": "ミスタープロスペクター",
+      "mother": "ブレニム",
+      "stars": 2,
+      "source": "https://piyotakejapan.com/46972/",
+      "verified": "実機確認済み",
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "father": "ミスタープロスペクター",
+      "mother": "リボー",
+      "stars": 2,
+      "source": "https://piyotakejapan.com/46972/",
+      "verified": "実機確認済み",
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "father": "ミスタープロスペクター",
+      "mother": "トムフール",
+      "stars": 2,
+      "source": "https://piyotakejapan.com/46972/",
+      "verified": "実機確認済み",
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "father": "ブランドフォード",
+      "mother": "リボー",
+      "stars": 2,
+      "source": "https://piyotakejapan.com/46972/",
+      "verified": "実機確認済み",
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "father": "ヒムヤー",
+      "mother": "ミスタープロスペクター",
+      "stars": 2,
+      "source": "https://piyotakejapan.com/46972/",
+      "verified": "実機確認済み",
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "father": "ヒムヤー",
+      "mother": "テディ",
+      "stars": 3,
+      "source": "https://piyotakejapan.com/46972/",
+      "verified": "実機確認済み",
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "father": "ヒムヤー",
+      "mother": "ブランドフォード",
+      "stars": 3,
+      "source": "https://piyotakejapan.com/46972/",
+      "verified": "実機確認済み",
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "father": "マイバブー",
+      "mother": "ミスタープロスペクター",
+      "stars": 2,
+      "source": "https://piyotakejapan.com/46972/",
+      "verified": "実機確認済み",
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "father": "マイバブー",
+      "mother": "ブランドフォード",
+      "stars": 2,
+      "source": "https://piyotakejapan.com/46972/",
+      "verified": "実機確認済み",
+      "checkedAt": "2026-10-05"
+    }
+  ]
+}
